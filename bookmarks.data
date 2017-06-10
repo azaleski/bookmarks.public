@@ -4,11 +4,31 @@
 <li title="pm" time="1484213380"><a href="https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/">Evidence Based Scheduling</a></li>
 <li title="algo" time="1483487469"><a href="https://probablydance.com/2016/12/27/i-wrote-a-faster-sorting-algorithm/">I Wrote a Faster Sorting Algorithm</a></li>
 <li title="javascript" time="1483351343"><a href="http://ejohn.org/apps/learn/">Learning Advanced Javascript</a></li>
+<li title="react" time="1497117881"><a href="https://www.gitbook.com/book/rangle-io/react-native-workshop/details">Rangle.io: React Native Workshop</a></li>
+<li title="react" time="1497117929"><a href="https://www.gitbook.com/book/rangle-io/react-training/details">Rangle.io: React Training</a></li>
 <li title="webdev" time="1495284829"><a href="https://www.infoq.com/articles/rest-anti-patterns/">REST Anti-Patterns</a></li>
 <li title="productivity" time="1483445190"><a href="https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/">Set goals with OKRs</a></li>
 <li title="bizdev" time="1484213154"><a href="https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1#.e3ukbx9b5">The Epic Guide to Bootstrapping a SaaS Startup from Scratch — By Yourself</a></li>
 <li title="security" time="1495284950"><a href="https://kev.inburke.com/kevin/things-to-use-instead-of-jwt/">Things to Use Instead of JWT</a></li>
 <li title="css" time="1483351418"><a href="http://cssreference.io/">Visual guide to CSS</a></li>
 <li title="devops" time="1490257010"><a href="https://scotte.org/2016/12/ZFS-root-filesystem-on-AWS">ZFS Root Filesystem on AWS</a></li>
-<li title="react-native" time="1497117881"><a href="https://www.gitbook.com/book/rangle-io/react-native-workshop/details">Rangle.io: React Native Workshop</a></li>
-<li title="react" time="1497117929" style=""><a href="https://www.gitbook.com/book/rangle-io/react-training/details">Rangle.io: React Training</a></li>
+<li title="courses" time="1497123748"><a href="https://www.codecademy.com/">CodeCademy</a></li>
+<li title="courses" time="1497123791"><a href="https://www.freecodecamp.com/">FreeCodeCamp</a></li>
+<li title="courses" time="1497123974"><a href="https://classroom.udacity.com/me">Udacity</a></li>
+<li title="courses" time="1497124135"><a href="https://www.class-central.com/">Class Central</a></li>
+<li title="courses" time="1497124169"><a href="https://www.futurelearn.com/">Future Learn</a></li>
+<li title="selenium" time="1497125007"><a href="http://seleniumsimplified.com/2011/05/when-automating-do-you-wait-before-or-after-the-event/">When automating, do you wait before or after the event?</a></li>
+<li title="css" time="1497125040"><a href="https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048">The 30 CSS Selectors You Must Memorize</a></li>
+<li title="selenium" time="1497125145"><a href="http://seleniumsimplified.com/2012/06/i-never-expected-expectedconditions/">I never expected ExpectedConditions</a></li>
+<li title="dev-books" time="1497125213"><a href="https://leanpub.com/javaForTesters">Java For Tester</a></li>
+<li title="dev-books" time="1497125267"><a href="http://www.compendiumdev.co.uk/selenium/">Selenium Simplified - Automated Web Testing with Java and Selenium RC</a></li>
+<li title="selenium" time="1497125319"><a href="https://pwicherski.gitbooks.io/testowanieoprogramowania/content/strony-na-kt%C3%B3rych-mo%C5%BCesz-trenowa%C4%87.html">Strony do testów manualnych oraz automatyzacji</a></li>
+<li title="javascript" time="1497125365"><a href="http://superherojs.com/">Superhero.js</a></li>
+<li title="javascript" time="1497125399"><a href="http://jstherightway.org/">JS: The Right Way</a></li>
+<li title="javascript" time="1497125432"><a href="https://github.com/getify/You-Dont-Know-JS">You Don't Know JS (book series)</a></li>
+<li title="javascript" time="1497125580"><a href="https://github.com/getify/Functional-Light-JS">Functional Light JS</a></li>
+<li title="js-libs" time="1497125797"><a href="https://github.com/getify/fpo">FP library for JavaScript</a></li>
+<li title="js-libs" time="1497125872"><a href="Loading And Blocking JavaScript">Loading And Blocking JavaScript</a></li>
+<li title="javascript" time="1497125911"><a href="https://addyosmani.com/resources/essentialjsdesignpatterns/book/">Learning JavaScript Design Patterns</a></li>
+<li title="javascript" time="1497126042"><a href="http://www.dofactory.com/javascript/design-patterns">JavaScript Design Patterns</a></li>
+<li title="javascript" time="1497126071"><a href="https://johnresig.com/apps/learn/">Learning Advanced JavaScript</a></li>
