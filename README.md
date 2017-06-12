@@ -1,4 +1,4 @@
 bookmarks.public
 ================
 
-* [Github pages](http://jkopanski.github.io/bookmarks.public/).
+* [Github pages](http://azaleski.github.io/bookmarks.public/).
