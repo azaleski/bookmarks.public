@@ -1,197 +1,214 @@
-<li title="bizdev" time="1497207487"><a href="https://www.reddit.com/r/Entrepreneur/comments/5lfy6n/4_years_ago_i_wrote_a_case_study_on_reddit_on_my/"> years ago I wrote a case study on reddit on my $4k per month local business</a></li>
-<li title="bizdev" time="1497604403"><a href="http://growthsupply.com/free/">+400 Awesome Free Tools To Build Your Business</a></li>
-<li title="javascript" time="1497127328"><a href="http://blog.canumeet.com/2016/09/16/101-javascript-interview-question/">101 Javascript Interview Questions</a></li>
-<li title="javascript" time="1497127237"><a href="http://www.deluxeblogtips.com/2015/12/118-free-resources-to-learn-javascript.html">118+ free resources to learn JavaScript - Deluxe Blog Tips</a></li>
-<li title="fe-blgs" time="1497176380"><a href="http://blog.jakoblind.no/">A blog about React and JavaScript byJakob Lind</a></li>
-<li title="javascript" time="1497811255"><a href="http://adripofjavascript.com/archive.html">A drip of JS</a></li>
-<li title="git" time="1497207359"><a href="http://wildlyinaccurate.com/a-hackers-guide-to-git/">A Hacker's Guide to Git | Wildly Inaccurate</a></li>
+<li title="bizdev" time="1497207487" style=""><a href="https://www.reddit.com/r/Entrepreneur/comments/5lfy6n/4_years_ago_i_wrote_a_case_study_on_reddit_on_my/"> years ago I wrote a case study on reddit on my $4k per month local business</a></li>
+<li title="bizdev" time="1497604403" style=""><a href="http://growthsupply.com/free/">+400 Awesome Free Tools To Build Your Business</a></li>
+<li title="javascript" time="1497127328" style=""><a href="http://blog.canumeet.com/2016/09/16/101-javascript-interview-question/">101 Javascript Interview Questions</a></li>
+<li title="javascript" time="1497127237" style=""><a href="http://www.deluxeblogtips.com/2015/12/118-free-resources-to-learn-javascript.html">118+ free resources to learn JavaScript - Deluxe Blog Tips</a></li>
+<li title="fluxible" time="1498058493" style=""><a href="https://github.com/gpbl/isomorphic500">A 500px app built with React and Fluxible with babeljs</a></li>
+<li title="fe-blgs" time="1497176380" style=""><a href="http://blog.jakoblind.no/">A blog about React and JavaScript byJakob Lind</a></li>
+<li title="javascript" time="1497811255" style=""><a href="http://adripofjavascript.com/archive.html">A drip of JS</a></li>
+<li title="fluxible" time="1498057873" style=""><a href="https://github.com/tlovett1/fluxible-starter">A Fluxible starter application</a></li>
+<li title="git" time="1497207359" style=""><a href="http://wildlyinaccurate.com/a-hackers-guide-to-git/">A Hacker's Guide to Git | Wildly Inaccurate</a></li>
 <li title="react" time="1497128232"><a href="https://github.com/ericvicenti/intro-to-react">A Hands-On Walkthrough of your first React Web App</a></li>
-<li title="javascript" time="1497127114"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript#Original_Document_Information">A re-introduction to JavaScript (JS tutorial) - JavaScript | MDN</a></li>
-<li title="react" time="1497128169"><a href="https://github.com/rajaraodv/react-redux-blog/">A sample React Redux CRUD app</a></li>
-<li title="git" time="1497179178"><a href="http://nvie.com/posts/a-successful-git-branching-model/">A successful Git branching model</a></li>
-<li title="terminal-lessons" time="1497127458"><a href="https://github.com/rmurphey/js-assessment">A test-driven approach to assessing JS skills</a></li>
-<li title="javascript" time="1497127140"><a href="https://github.com/airbnb/javascript">airbnb/javascript</a></li>
-<li title="algo" time="1497207215"><a href="http://algo-visualizer.jasonpark.me/#path=string/knuth_morris_pratt/substring_search">Algorithm Visualizer</a></li>
-<li title="javascript" time="1495284778"><a href="http://lucasfcosta.com/2017/05/08/All-About-Recursion-PTC-TCO-and-STC-in-JavaScript.html">All About Recursion, PTC, TCO and STC in JavaScript</a></li>
-<li title="a2" time="1497207138"><a href="http://blog.thoughtram.io/angular/2016/09/15/angular-2-final-is-out.html">Angular 2 is out - Get started here by thoughtram</a></li>
-<li title="a1" time="1497206405"><a href="http://www.angularbasics.co.uk/#">Angular Basics</a></li>
-<li title="a1" time="1497206423"><a href="http://www.angularjsbook.com/">Angular Basics by ScriptyBooks, a free book on AngularJS</a></li>
-<li title="a1" time="1497206253"><a href="http://www.bradoncode.com/tutorials/angularjs-unit-testing/">AngularJS Unit Testing Tutorials</a></li>
-<li title="a1" time="1497206283"><a href="https://docs.angularjs.org/api">AngularJS: API: API Reference</a></li>
-<li title="a1" time="1497206316"><a href="https://docs.angularjs.org/guide/">AngularJS: Developer Guide: Developer Guide</a></li>
-<li title="a1" time="1497206301"><a href="https://docs.angularjs.org/tutorial">AngularJS: Tutorial: Tutorial</a></li>
-<li title="css" time="1497173579"><a href="https://daneden.github.io/animate.css/">Animate.css</a></li>
-<li title="node" time="1497173214"><a href="https://apiblueprint.org/">Api blueprint</a></li>
-<li title="webdev" time="1487946993"><a href="https://cloud.google.com/apis/design/">API Design Guide</a></li>
-<li title="scala" time="1497206788"><a href="http://arnodb.github.io/2015/09/13/arnaud-learns-scala-part-1.html">Arnaud learns Scala - part 1</a></li>
-<li title="security" time="1495284900"><a href="https://docs.google.com/spreadsheets/d/1tAX5ZJzluilhoYKjra-uHbMCZraaQkqIHl3RIQ8mVkM/edit#gid=0">Authentication Techniques for APIs</a></li>
-<li title="fe-blgs" time="1497176249"><a href="https://www.barbarianmeetscoding.com/">Barbarian meets coding</a></li>
-<li title="css" time="1497173833"><a href="http://getbase.org/">BASE</a></li>
-<li title="css" time="1497173616"><a href="http://basscss.com/#!">Basscss</a></li>
-<li title="algo" time="1497207284"><a href="http://blog.benoitvallon.com/">Ben's Blog</a></li>
-<li title="webperf" time="1497206879"><a href="https://developer.yahoo.com/performance/rules.html">Best Practices for Speeding Up Your Web Site</a></li>
-<li title="fe-blgs" time="1497176233"><a href="https://bitsofco.de/">Bits of Code</a></li>
-<li title="css" time="1497137982"><a href="http://blazecss.com/">Blaze CSS</a></li>
-<li title="js-libs" time="1497173550"><a href="http://bouncejs.com/">Bounce.js</a></li>
-<li title="webperf" time="1497206900"><a href="http://slides.com/alex-kachura/bro#/6">Browser Rendering Optimization by alex-kachura</a></li>
-<li title="react" time="1497128402"><a href="https://zapier.com/engineering/how-to-build-redux/">Build Yourself a Redux</a></li>
-<li title="css" time="1497137715"><a href="http://bulma.io/">Bulma</a></li>
-<li title="bcoin" time="1497811024"><a href="https://www.bunq.com/en/">bunq</a></li>
-<li title="fe-blgs" time="1497176088"><a href="https://bytearcher.com/articles/">Byte archer</a></li>
-<li title="ui" time="1497175113"><a href="https://www.canva.com/">Canva</a></li>
-<li title="inspire" time="1497174811"><a href="http://carbondesignsystem.com/">Carbon Design System by IBM</a></li>
-<li title="courses" time="1497124135"><a href="https://www.class-central.com/">Class Central</a></li>
-<li title="scala" time="1497206758"><a href="https://www.cs.helsinki.fi/u/wikla/OTS/Sisalto/examples/index.html">Code Examples for Programming in Scala</a></li>
-<li title="courses" time="1497123748"><a href="https://www.codecademy.com/">CodeCademy</a></li>
-<li title="a2" time="1497207160"><a href="https://codecraft.tv/courses/ng2/">CodeCraft • Angular 2</a></li>
-<li title="css" time="1497174595"><a href="https://codyhouse.co/">Codyhouse</a></li>
-<li title="ui" time="1497175315"><a href="http://www.colorhunt.co/c/17143">Color Hunt</a></li>
-<li title="ui" time="1497175344"><a href="http://jxnblk.com/colorable/">Colorable</a></li>
+<li title="javascript" time="1497127114" style=""><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript#Original_Document_Information">A re-introduction to JavaScript (JS tutorial) - JavaScript | MDN</a></li>
+<li title="react" time="1498056813"><a href="https://hackernoon.com/a-react-todos-example-explained-6df53cdebed1">A React TODOs example, explainedr</a></li>
+<li title="redux" time="1497128169"><a href="https://github.com/rajaraodv/react-redux-blog/">A sample React Redux CRUD app</a></li>
+<li title="git" time="1497179178" style=""><a href="http://nvie.com/posts/a-successful-git-branching-model/">A successful Git branching model</a></li>
+<li title="terminal-lessons" time="1497127458" style=""><a href="https://github.com/rmurphey/js-assessment">A test-driven approach to assessing JS skills</a></li>
+<li title="javascript" time="1497127140" style=""><a href="https://github.com/airbnb/javascript">airbnb/javascript</a></li>
+<li title="algo" time="1497207215" style=""><a href="http://algo-visualizer.jasonpark.me/#path=string/knuth_morris_pratt/substring_search">Algorithm Visualizer</a></li>
+<li title="javascript" time="1495284778" style=""><a href="http://lucasfcosta.com/2017/05/08/All-About-Recursion-PTC-TCO-and-STC-in-JavaScript.html">All About Recursion, PTC, TCO and STC in JavaScript</a></li>
+<li title="a2" time="1497207138" style=""><a href="http://blog.thoughtram.io/angular/2016/09/15/angular-2-final-is-out.html">Angular 2 is out - Get started here by thoughtram</a></li>
+<li title="a1" time="1497206405" style=""><a href="http://www.angularbasics.co.uk/#">Angular Basics</a></li>
+<li title="a1" time="1497206423" style=""><a href="http://www.angularjsbook.com/">Angular Basics by ScriptyBooks, a free book on AngularJS</a></li>
+<li title="a1" time="1497206253" style=""><a href="http://www.bradoncode.com/tutorials/angularjs-unit-testing/">AngularJS Unit Testing Tutorials</a></li>
+<li title="a1" time="1497206283" style=""><a href="https://docs.angularjs.org/api">AngularJS: API: API Reference</a></li>
+<li title="a1" time="1497206316" style=""><a href="https://docs.angularjs.org/guide/">AngularJS: Developer Guide: Developer Guide</a></li>
+<li title="a1" time="1497206301" style=""><a href="https://docs.angularjs.org/tutorial">AngularJS: Tutorial: Tutorial</a></li>
+<li title="css" time="1497173579" style=""><a href="https://daneden.github.io/animate.css/">Animate.css</a></li>
+<li title="node" time="1497173214" style=""><a href="https://apiblueprint.org/">Api blueprint</a></li>
+<li title="webdev" time="1487946993" style=""><a href="https://cloud.google.com/apis/design/">API Design Guide</a></li>
+<li title="scala" time="1497206788" style=""><a href="http://arnodb.github.io/2015/09/13/arnaud-learns-scala-part-1.html">Arnaud learns Scala - part 1</a></li>
+<li title="security" time="1495284900" style=""><a href="https://docs.google.com/spreadsheets/d/1tAX5ZJzluilhoYKjra-uHbMCZraaQkqIHl3RIQ8mVkM/edit#gid=0">Authentication Techniques for APIs</a></li>
+<li title="redux" time="1499639309"><a href="https://github.com/xgrommx/awesome-redux">Awesome Redux</a></li>
+<li title="fe-blgs" time="1497176249" style=""><a href="https://www.barbarianmeetscoding.com/">Barbarian meets coding</a></li>
+<li title="css" time="1497173833" style=""><a href="http://getbase.org/">BASE</a></li>
+<li title="css" time="1497173616" style=""><a href="http://basscss.com/#!">Basscss</a></li>
+<li title="algo" time="1497207284" style=""><a href="http://blog.benoitvallon.com/">Ben's Blog</a></li>
+<li title="node" time="1498209110" style=""><a href="https://x-team.com/blog/best-node-js-guides-curated-by-x-team/">Best Node.js Tutorials: Curated by X-Team</a></li>
+<li title="webperf" time="1497206879" style=""><a href="https://developer.yahoo.com/performance/rules.html">Best Practices for Speeding Up Your Web Site</a></li>
+<li title="fe-blgs" time="1497176233" style=""><a href="https://bitsofco.de/">Bits of Code</a></li>
+<li title="css" time="1497137982" style=""><a href="http://blazecss.com/">Blaze CSS</a></li>
+<li title="js-libs" time="1497173550" style=""><a href="http://bouncejs.com/">Bounce.js</a></li>
+<li title="webperf" time="1497206900" style=""><a href="http://slides.com/alex-kachura/bro#/6">Browser Rendering Optimization by alex-kachura</a></li>
+<li title="redux" time="1497128402"><a href="https://zapier.com/engineering/how-to-build-redux/">Build Yourself a Redux</a></li>
+<li title="fluxible" time="1498058614" style=""><a href="http://jacksoncmorgan.blogspot.com/2015/07/building-web-site-using-isomorphic-flux.html">Building a Web Site using Isomorphic Flux and Fluxible</a></li>
+<li title="css" time="1497137715" style=""><a href="http://bulma.io/">Bulma</a></li>
+<li title="bcoin" time="1497811024" style=""><a href="https://www.bunq.com/en/">bunq</a></li>
+<li title="fe-blgs" time="1497176088" style=""><a href="https://bytearcher.com/articles/">Byte archer</a></li>
+<li title="ui" time="1497175113" style=""><a href="https://www.canva.com/">Canva</a></li>
+<li title="inspire" time="1497174811" style=""><a href="http://carbondesignsystem.com/">Carbon Design System by IBM</a></li>
+<li title="courses" time="1497124135" style=""><a href="https://www.class-central.com/">Class Central</a></li>
+<li title="scala" time="1497206758" style=""><a href="https://www.cs.helsinki.fi/u/wikla/OTS/Sisalto/examples/index.html">Code Examples for Programming in Scala</a></li>
+<li title="courses" time="1497123748" style=""><a href="https://www.codecademy.com/">CodeCademy</a></li>
+<li title="a2" time="1497207160" style=""><a href="https://codecraft.tv/courses/ng2/">CodeCraft • Angular 2</a></li>
+<li title="css" time="1497174595" style=""><a href="https://codyhouse.co/">Codyhouse</a></li>
+<li title="ui" time="1497175315" style=""><a href="http://www.colorhunt.co/c/17143">Color Hunt</a></li>
+<li title="ui" time="1497175344" style=""><a href="http://jxnblk.com/colorable/">Colorable</a></li>
 <li title="react" time="1497127890"><a href="https://btholt.github.io/complete-intro-to-react/">Complete Intro to React by Brian Holt</a></li>
-<li title="javascript" time="1497127261"><a href="http://slides.com/concise/js#/92">concise JavaScript by Jong-Shian Wu</a></li>
-<li title="css" time="1497173748"><a href="https://www.minimamente.com/example/gradient-generator/">CSS Gradient Editor</a></li>
-<li title="css" time="1497137922"><a href="https://cssguidelin.es/">Css guideline</a></li>
-<li title="css" time="1497174552"><a href="https://tympanus.net/codrops/css_reference/">CSS Reference</a></li>
-<li title="css, flexbox" time="1497178919"><a href="https://tympanus.net/codrops/css_reference/flexbox/">CSS Reference - Flexbox</a></li>
-<li title="fe-blgs" time="1497176136"><a href="https://csswizardry.com/">Csswizzardy</a></li>
-<li title="fe-blgs" time="1497175888"><a href="https://daveceddia.com/archives/">Dave Ceddia</a></li>
-<li title="fe-blgs" time="1497175856"><a href="http://davidshariff.com/blog/">David shariff</a></li>
-<li title="a1" time="1497206269"><a href="http://stackoverflow.com/questions/15666048/angularjs-service-vs-provider-vs-factory/20613879#20613879">dependency injection - AngularJS : Service vs provider vs factory - Stack Overflow</a></li>
-<li title="ui" time="1497175278"><a href="http://codepen.io/patterns/">Design Patterns</a></li>
-<li title="ui" time="1497175227"><a href="https://designcode.io/">Design+code</a></li>
-<li title="ui" time="1497175169"><a href="http://adrien-heury.net/designers-checklists/index.html">Designers checklist</a></li>
-<li title="webperf" time="1497206856"><a href="http://designingforperformance.com/">Designing for Performance by Lara Callender Hogan</a></li>
-<li title="ui" time="1497175183"><a href="http://designingfortheweb.co.uk/index.php">Designing for the Web</a></li>
-<li title="fullstack" time="1497179093"><a href="http://book.mixu.net/distsys/index.html">Distributed systems</a></li>
-<li title="javascript" time="1497127209"><a href="https://github.com/DrBoolean/mostly-adequate-guide">DrBoolean/mostly-adequate-guide</a></li>
-<li title="langs" time="1497811172"><a href="https://englishtest.duolingo.com/">Duolingo English Test</a></li>
-<li title="seo" time="1497175743"><a href="https://simplestepscode.com/make-your-website-load-faster/">Easy ways to make your website load faster</a></li>
-<li title="es6" time="1497173438"><a href="http://es6-features.org/#Constants">ECMAScript 6 — New Features: Overview &amp; Comparison</a></li>
-<li title="es6" time="1497173326"><a href="http://maxwellito.github.io/es6-quiz-slides/#/">ECMAScript 6 Quiz</a></li>
-<li title="scala" time="1497206774"><a href="http://twitter.github.io/effectivescala/">Effective Scala</a></li>
-<li title="css" time="1497138002"><a href="http://ecss.io/">Enduring CSS</a></li>
-<li title="courses" time="1497174225"><a href="https://www.learnhowtoprogram.com/courses">Epicodus</a></li>
-<li title="es6" time="1497173396"><a href="https://codetower.github.io/es6-features/">ES6 Features</a></li>
-<li title="es6" time="1497173295"><a href="http://es6katas.org/">ES6 Katas</a></li>
-<li title="es6" time="1497173350"><a href="https://ponyfoo.com/articles/es6">ES6 Overview in 350 Bullet Points</a></li>
-<li title="es6" time="1497173374"><a href="https://github.com/DrkSephy/es6-cheatsheet">es6-cheatsheet</a></li>
-<li title="dev-books" time="1497129319"><a href="https://leanpub.com/nodejssecurity">Essential Node.js Security</a></li>
-<li title="inspire" time="1497175074"><a href="http://ettrics.com/articles/page/2/">Ettrics demos</a></li>
-<li title="pm" time="1484213380"><a href="https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/">Evidence Based Scheduling</a></li>
-<li title="react" time="1497128198"><a href="https://github.com/gothinkster/react-redux-realworld-example-app">Exemplary real world application built with React + Redux</a></li>
-<li title="terminal-lessons" time="1497207199"><a href="http://exercism.io/">exercism.io</a></li>
-<li title="node" time="1497172690"><a href="http://nodeguide.com">Felix's Node.js Guide</a></li>
-<li title="css" time="1497174988"><a href="http://www.flexboxpatterns.com/home">Flexbox Patterns</a></li>
-<li title="algo" time="1497207229"><a href="http://btholt.github.io/four-semesters-of-cs/">Four Semesters of Computer Science in Six Hours</a></li>
-<li title="js-libs" time="1497125797"><a href="https://github.com/getify/fpo">FP library for JavaScript</a></li>
-<li title="inspire" time="1497174689"><a href="https://freebiesupply.com/">Freebie supply</a></li>
-<li title="inspire" time="1497174639"><a href="https://freebiesbug.com/code-stuff/">Freebiesbug Resources for Developers</a></li>
-<li title="courses" time="1497123791"><a href="https://www.freecodecamp.com/">FreeCodeCamp</a></li>
-<li title="webdev" time="1497173938"><a href="https://www.gitbook.com/@frontendmasters">Frontend Masters Gitbooks</a></li>
-<li title="webdev" time="1497173903"><a href="https://github.com/dmytroyarmak/frontend-dev-resources">frontend-dev-resources</a></li>
-<li title="react" time="1497127941"><a href="http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html">Full-Stack Redux Tutorial by Teropa</a></li>
+<li title="javascript" time="1497127261" style=""><a href="http://slides.com/concise/js#/92">concise JavaScript by Jong-Shian Wu</a></li>
+<li title="css" time="1497173748" style=""><a href="https://www.minimamente.com/example/gradient-generator/">CSS Gradient Editor</a></li>
+<li title="css" time="1497137922" style=""><a href="https://cssguidelin.es/">Css guideline</a></li>
+<li title="css" time="1497174552" style=""><a href="https://tympanus.net/codrops/css_reference/">CSS Reference</a></li>
+<li title="css, flexbox" time="1497178919" style=""><a href="https://tympanus.net/codrops/css_reference/flexbox/">CSS Reference - Flexbox</a></li>
+<li title="fe-blgs" time="1497176136" style=""><a href="https://csswizardry.com/">Csswizzardy</a></li>
+<li title="fe-blgs" time="1497175888" style=""><a href="https://daveceddia.com/archives/">Dave Ceddia</a></li>
+<li title="fe-blgs" time="1497175856" style=""><a href="http://davidshariff.com/blog/">David shariff</a></li>
+<li title="a1" time="1497206269" style=""><a href="http://stackoverflow.com/questions/15666048/angularjs-service-vs-provider-vs-factory/20613879#20613879">dependency injection - AngularJS : Service vs provider vs factory - Stack Overflow</a></li>
+<li title="ui" time="1497175278" style=""><a href="http://codepen.io/patterns/">Design Patterns</a></li>
+<li title="ui" time="1497175227" style=""><a href="https://designcode.io/">Design+code</a></li>
+<li title="ui" time="1497175169" style=""><a href="http://adrien-heury.net/designers-checklists/index.html">Designers checklist</a></li>
+<li title="webperf" time="1497206856" style=""><a href="http://designingforperformance.com/">Designing for Performance by Lara Callender Hogan</a></li>
+<li title="ui" time="1497175183" style=""><a href="http://designingfortheweb.co.uk/index.php">Designing for the Web</a></li>
+<li title="fullstack" time="1497179093" style=""><a href="http://book.mixu.net/distsys/index.html">Distributed systems</a></li>
+<li title="javascript" time="1497127209" style=""><a href="https://github.com/DrBoolean/mostly-adequate-guide">DrBoolean/mostly-adequate-guide</a></li>
+<li title="langs" time="1497811172" style=""><a href="https://englishtest.duolingo.com/">Duolingo English Test</a></li>
+<li title="seo" time="1497175743" style=""><a href="https://simplestepscode.com/make-your-website-load-faster/">Easy ways to make your website load faster</a></li>
+<li title="es6" time="1497173438" style=""><a href="http://es6-features.org/#Constants">ECMAScript 6 — New Features: Overview &amp; Comparison</a></li>
+<li title="es6" time="1497173326" style=""><a href="http://maxwellito.github.io/es6-quiz-slides/#/">ECMAScript 6 Quiz</a></li>
+<li title="scala" time="1497206774" style=""><a href="http://twitter.github.io/effectivescala/">Effective Scala</a></li>
+<li title="css" time="1497138002" style=""><a href="http://ecss.io/">Enduring CSS</a></li>
+<li title="courses" time="1497174225" style=""><a href="https://www.learnhowtoprogram.com/courses">Epicodus</a></li>
+<li title="es6" time="1497173396" style=""><a href="https://codetower.github.io/es6-features/">ES6 Features</a></li>
+<li title="es6" time="1497173295" style=""><a href="http://es6katas.org/">ES6 Katas</a></li>
+<li title="es6" time="1497173350" style=""><a href="https://ponyfoo.com/articles/es6">ES6 Overview in 350 Bullet Points</a></li>
+<li title="es6" time="1497173374" style=""><a href="https://github.com/DrkSephy/es6-cheatsheet">es6-cheatsheet</a></li>
+<li title="dev-books" time="1497129319" style=""><a href="https://leanpub.com/nodejssecurity">Essential Node.js Security</a></li>
+<li title="inspire" time="1497175074" style=""><a href="http://ettrics.com/articles/page/2/">Ettrics demos</a></li>
+<li title="pm" time="1484213380" style=""><a href="https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/">Evidence Based Scheduling</a></li>
+<li title="redux" time="1497128198"><a href="https://github.com/gothinkster/react-redux-realworld-example-app">Exemplary real world application built with React + Redux</a></li>
+<li title="terminal-lessons" time="1497207199" style=""><a href="http://exercism.io/">exercism.io</a></li>
+<li title="node" time="1497172690" style=""><a href="http://nodeguide.com">Felix's Node.js Guide</a></li>
+<li title="css" time="1497174988" style=""><a href="http://www.flexboxpatterns.com/home">Flexbox Patterns</a></li>
+<li title="fluxible" time="1498057896" style=""><a href="https://github.com/voronianski/flux-comparison/tree/master/yahoo-fluxible">flux-comparison/yahoo-fluxible</a></li>
+<li title="fluxible" time="1498058431" style=""><a href="http://qiita.com/srd7/items/85e89f16b1b390170579">Fluxible + React</a></li>
+<li title="fluxible" time="1498058081" style=""><a href="https://taylorlovett.com/2016/04/29/fluxible-devignition-2016/">Fluxible at DevIgnition 2016</a></li>
+<li title="fluxible" time="1498058467" style=""><a href="https://github.com/yahoo/fluxible/tree/master/examples">Fluxible Examples</a></li>
+<li title="fluxible" time="1498058374" style=""><a href="https://github.com/zoover/fluxible-isomorphic-app">fluxible-isomorphic-app</a></li>
+<li title="react" time="1498056875"><a href="http://stack.formidable.com/react-tutorial/">Formidable Labs React Training</a></li>
+<li title="algo" time="1497207229" style=""><a href="http://btholt.github.io/four-semesters-of-cs/">Four Semesters of Computer Science in Six Hours</a></li>
+<li title="js-libs" time="1497125797" style=""><a href="https://github.com/getify/fpo">FP library for JavaScript</a></li>
+<li title="inspire" time="1497174689" style=""><a href="https://freebiesupply.com/">Freebie supply</a></li>
+<li title="inspire" time="1497174639" style=""><a href="https://freebiesbug.com/code-stuff/">Freebiesbug Resources for Developers</a></li>
+<li title="courses" time="1497123791" style=""><a href="https://www.freecodecamp.com/">FreeCodeCamp</a></li>
+<li title="webdev" time="1497173938" style=""><a href="https://www.gitbook.com/@frontendmasters">Frontend Masters Gitbooks</a></li>
+<li title="webdev" time="1497173903" style=""><a href="https://github.com/dmytroyarmak/frontend-dev-resources">frontend-dev-resources</a></li>
+<li title="redux" time="1497127941"><a href="http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html">Full-Stack Redux Tutorial by Teropa</a></li>
 <li title="react" time="1497128047"><a href="https://www.fullstackreact.com/30-days-of-react/">Fullstack React: 30 days of react</a></li>
-<li title="javascript" time="1497125580"><a href="https://github.com/getify/Functional-Light-JS">Functional Light JS</a></li>
-<li title="courses" time="1497124169"><a href="https://www.futurelearn.com/">Future Learn</a></li>
-<li title="react" time="1497128367"><a href="https://codepen.io/thepeted/pen/bpovxz">Game of Life (react + redux)</a></li>
-<li title="scala" time="1497206819"><a href="https://gist.github.com/anonymous/1406238">gist:1406238</a></li>
-<li title="git" time="1497207392"><a href="http://rogerdudler.github.io/git-guide/">git - the simple guide - no deep shit!</a></li>
-<li title="git" time="1497207404"><a href="https://www.liquidlight.co.uk/blog/article/git-for-beginners-an-overview-and-basic-workflow/">Git for Beginners: An Overview and Basic Workflow - Liquid Light</a></li>
-<li title="git" time="1497207376"><a href="http://gitimmersion.com/">Git Immersion - Brought to you by Neo</a></li>
-<li title="ui" time="1497175154"><a href="http://www.goodui.org/">Good UI</a></li>
-<li title="ui" time="1497175131"><a href="https://design.google.com/#resources">Google design</a></li>
-<li title="css" time="1497174574"><a href="http://jxnblk.com/gravitons/">Gravitons</a></li>
-<li title="seo" time="1497175557"><a href="https://gtmetrix.com">GtMetrix</a></li>
-<li title="ui" time="1497175144"><a href="https://hackdesign.org/lessons">Hackdesign</a></li>
-<li title="webperf" time="1497206914"><a href="https://hpbn.co/">High Performance Browser Networking (O'Reilly)</a></li>
-<li title="fe-blgs" time="1497176303"><a href="https://una.im">Home | Una Kravets Online</a></li>
-<li title="css" time="1497173568"><a href="http://ianlunn.github.io/Hover/#">Hover.css</a></li>
-<li title="seo" time="1497175637"><a href="https://website.grader.com/">How Strong is your website</a></li>
-<li title="bizdev" time="1497207470"><a href="https://crew.co/how-to-build-an-online-business/">How To Build an Online Business | Crew</a></li>
-<li title="bizdev" time="1497207505"><a href="http://startupclass.samaltman.com/">How to Start a Startup</a></li>
-<li title="html" time="1497174290"><a href="https://html5boilerplate.com/">HTML 5 boilerplate</a></li>
-<li title="ui" time="1497175469"><a href="http://htmlcolorcodes.com/">HTML Color codes</a></li>
-<li title="html" time="1497178954"><a href="http://htmldog.com/">Html Dog</a></li>
-<li title="css" time="1497137736"><a href="http://htmlreference.io/">Html reference</a></li>
-<li title="html" time="1497174311"><a href="http://html5please.com/">HTML5 Please</a></li>
-<li title="node" time="1497173235"><a href="https://webdesign.tutsplus.com/tutorials/http-status-codes-in-60-seconds--cms-24317">HTTP Status Codes in 60 Seconds</a></li>
-<li title="inspire" time="1497174717"><a href="http://github.hubspot.com/">HubSpot</a></li>
-<li title="selenium" time="1497125145"><a href="http://seleniumsimplified.com/2012/06/i-never-expected-expectedconditions/">I never expected ExpectedConditions</a></li>
-<li title="algo" time="1483487469"><a href="https://probablydance.com/2016/12/27/i-wrote-a-faster-sorting-algorithm/">I Wrote a Faster Sorting Algorithm</a></li>
-<li title="dev-books" time="1497129663"><a href="https://www.intercom.com/books/starting-up">Intercom on Starting Up</a></li>
-<li title="a2" time="1497207148"><a href="http://basarat.gitbooks.io/typescript/content/">Introduction | TypeScript Deep Dive</a></li>
-<li title="a1" time="1497206343"><a href="http://g00glen00b.be/introduction-angularjs/">Introduction to AngularJS - g00glen00b</a></li>
-<li title="css" time="1497174831"><a href="https://www.iotacss.com/">iotaCss</a></li>
-<li title="fe-blgs" time="1497176405"><a href="https://jaysoo.ca/">Jack Hsu</a></li>
-<li title="fe-blgs" time="1497176324"><a href="https://jakearchibald.com/">Jake Archbald</a></li>
-<li title="fe-blgs" time="1497175963"><a href="http://jamesknelson.com/">James K. Nelson</a></li>
-<li title="dev-books" time="1497125213"><a href="https://leanpub.com/javaForTesters">Java For Tester</a></li>
-<li title="javascript" time="1497126042"><a href="http://www.dofactory.com/javascript/design-patterns">JavaScript Design Patterns</a></li>
-<li title="javascript" time="1497127023"><a href="http://bonsaiden.github.io/JavaScript-Garden">JavaScript Garden</a></li>
-<li title="javascript" time="1497127307"><a href="https://javascript.info/">Javascript Info</a></li>
-<li title="fe-blgs" time="1497176116"><a href="http://javascriptplayground.com/archives/">Javascript playground by Jack Franklin</a></li>
-<li title="javascript" time="1497127076"><a href="http://code.tutsplus.com/series/javascript-succinctly--net-35975">JavaScript Succinctly - Tuts+ Code Tutorials</a></li>
-<li title="webdev" time="1497174140"><a href="http://tutorials.jenkov.com/">Jenkov tuts</a></li>
-<li title="a1" time="1497206330"><a href="https://github.com/JeremyLikness/AngularHealthApp">JeremyLikness/AngularHealthApp</a></li>
-<li title="git" time="1497207333"><a href="https://github.com/jlord/git-it">jlord/git-it: Learn Git and GitHub. Try the new desktop version →</a></li>
-<li title="jquery" time="1497206957"><a href="http://nicholasjohnson.com/jquery-book/">jQuery Book</a></li>
-<li title="jquery" time="1497206999"><a href="http://oscarotero.com/jquery/">jQuery Cheatsheet</a></li>
-<li title="jquery" time="1497206974"><a href="http://jqfundamentals.com/">jQuery Fundamentals :: A guide to the basics of jQuery</a></li>
-<li title="jquery" time="1497207018"><a href="http://learn.jquery.com/">jQuery Learning Center</a></li>
-<li title="jquery" time="1497207033"><a href="http://code.tutsplus.com/series/jquery-succinctly--net-33742">jQuery Succinctly - Tuts+ Code Tutorials</a></li>
-<li title="terminal-lessons" time="1497129189"><a href="https://github.com/verekia/js-stack-from-scratch">JS stack from scratch</a></li>
-<li title="javascript" time="1497811276"><a href="http://www.jstips.co/">JS Tips</a></li>
-<li title="javascript" time="1497125399"><a href="http://jstherightway.org/">JS: The Right Way</a></li>
-<li title="algo" time="1497207272"><a href="https://github.com/jwasham/google-interview-university">jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer</a></li>
-<li title="css" time="1497174970"><a href="http://getkickstart.com/">Kickstart</a></li>
-<li title="seo" time="1497175704"><a href="http://lawmore.pl/">Lawmore</a></li>
-<li title="a2" time="1497207102"><a href="http://learnangular2.com/">Learn Angular 2 · Learn Angular 2</a></li>
-<li title="css" time="1497173704"><a href="http://learnlayout.com/">Learn CSS Layout</a></li>
-<li title="css" time="1497178989"><a href="http://book.mixu.net/css/">Learn CSS Layout</a></li>
-<li title="langs" time="1497811087"><a href="https://english.lingolia.com/en/">Learn English on Lingolia</a></li>
-<li title="git" time="1497207347"><a href="https://www.atlassian.com/git">Learn Git- Git tutorials, workflows and commands | Atlassian Git Tutorial</a></li>
-<li title="terminal-lessons" time="1497127419"><a href="https://github.com/sethvincent/javascripting">Learn JavaScript by adventuring around in the terminal</a></li>
-<li title="webdev" time="1497174115"><a href="https://bento.io/">Learn to be a self-taught expert developer - BENTO</a></li>
-<li title="webdev" time="1497172789"><a href="http://learn.shayhowe.com/html-css/">Learn to Code HTML &amp; CSS</a></li>
-<li title="javascript" time="1497126071"><a href="https://johnresig.com/apps/learn/">Learning Advanced JavaScript</a></li>
-<li title="javascript" time="1497125911"><a href="https://addyosmani.com/resources/essentialjsdesignpatterns/book/">Learning JavaScript Design Patterns</a></li>
-<li title="terminal-lessons" time="1497129134"><a href="https://github.com/workshopper/learnyounode">learnynode</a></li>
-<li title="terminal-lessons" time="1497128146"><a href="https://github.com/workshopper/learnyoureact">learnyoureact</a></li>
-<li title="webperf" time="1497206839"><a href="http://ponyfoo.com/articles/talk-about-web-performance">Let's talk about Web Performance</a></li>
+<li title="javascript" time="1497125580" style=""><a href="https://github.com/getify/Functional-Light-JS">Functional Light JS</a></li>
+<li title="courses" time="1497124169" style=""><a href="https://www.futurelearn.com/">Future Learn</a></li>
+<li title="redux" time="1497128367"><a href="https://codepen.io/thepeted/pen/bpovxz">Game of Life (react + redux)</a></li>
+<li title="scala" time="1497206819" style=""><a href="https://gist.github.com/anonymous/1406238">gist:1406238</a></li>
+<li title="git" time="1497207392" style=""><a href="http://rogerdudler.github.io/git-guide/">git - the simple guide - no deep shit!</a></li>
+<li title="git" time="1497207404" style=""><a href="https://www.liquidlight.co.uk/blog/article/git-for-beginners-an-overview-and-basic-workflow/">Git for Beginners: An Overview and Basic Workflow - Liquid Light</a></li>
+<li title="git" time="1497207376" style=""><a href="http://gitimmersion.com/">Git Immersion - Brought to you by Neo</a></li>
+<li title="ui" time="1497175154" style=""><a href="http://www.goodui.org/">Good UI</a></li>
+<li title="ui" time="1497175131" style=""><a href="https://design.google.com/#resources">Google design</a></li>
+<li title="webdev" time="1499638546" style=""><a href="https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41">grabs-front-end-guide-for-large-teams</a></li>
+<li title="css" time="1497174574" style=""><a href="http://jxnblk.com/gravitons/">Gravitons</a></li>
+<li title="seo" time="1497175557" style=""><a href="https://gtmetrix.com">GtMetrix</a></li>
+<li title="ui" time="1497175144" style=""><a href="https://hackdesign.org/lessons">Hackdesign</a></li>
+<li title="webperf" time="1497206914" style=""><a href="https://hpbn.co/">High Performance Browser Networking (O'Reilly)</a></li>
+<li title="fe-blgs" time="1497176303" style=""><a href="https://una.im">Home | Una Kravets Online</a></li>
+<li title="css" time="1497173568" style=""><a href="http://ianlunn.github.io/Hover/#">Hover.css</a></li>
+<li title="seo" time="1497175637" style=""><a href="https://website.grader.com/">How Strong is your website</a></li>
+<li title="bizdev" time="1497207470" style=""><a href="https://crew.co/how-to-build-an-online-business/">How To Build an Online Business | Crew</a></li>
+<li title="bizdev" time="1497207505" style=""><a href="http://startupclass.samaltman.com/">How to Start a Startup</a></li>
+<li title="html" time="1497174290" style=""><a href="https://html5boilerplate.com/">HTML 5 boilerplate</a></li>
+<li title="ui" time="1497175469" style=""><a href="http://htmlcolorcodes.com/">HTML Color codes</a></li>
+<li title="html" time="1497178954" style=""><a href="http://htmldog.com/">Html Dog</a></li>
+<li title="css" time="1497137736" style=""><a href="http://htmlreference.io/">Html reference</a></li>
+<li title="html" time="1497174311" style=""><a href="http://html5please.com/">HTML5 Please</a></li>
+<li title="node" time="1497173235" style=""><a href="https://webdesign.tutsplus.com/tutorials/http-status-codes-in-60-seconds--cms-24317">HTTP Status Codes in 60 Seconds</a></li>
+<li title="fluxible" time="1498058657" style=""><a href="https://medium.com/@JacksonMorgan/building-a-site-using-isomorphic-flux-with-fluxible-e7939f37fa0">https://github.com/jaxoncreed/fluxible-tutorial</a></li>
+<li title="inspire" time="1497174717" style=""><a href="http://github.hubspot.com/">HubSpot</a></li>
+<li title="selenium" time="1497125145" style=""><a href="http://seleniumsimplified.com/2012/06/i-never-expected-expectedconditions/">I never expected ExpectedConditions</a></li>
+<li title="algo" time="1483487469" style=""><a href="https://probablydance.com/2016/12/27/i-wrote-a-faster-sorting-algorithm/">I Wrote a Faster Sorting Algorithm</a></li>
+<li title="dev-books" time="1497129663" style=""><a href="https://www.intercom.com/books/starting-up">Intercom on Starting Up</a></li>
+<li title="a2" time="1497207148" style=""><a href="http://basarat.gitbooks.io/typescript/content/">Introduction | TypeScript Deep Dive</a></li>
+<li title="a1" time="1497206343" style=""><a href="http://g00glen00b.be/introduction-angularjs/">Introduction to AngularJS - g00glen00b</a></li>
+<li title="css" time="1497174831" style=""><a href="https://www.iotacss.com/">iotaCss</a></li>
+<li title="fluxible" time="1498058906" style=""><a href="https://github.com/porchdotcom/isomorphic-porch-demo">Isomorphic React+Flux application architecture w Fluxible</a></li>
+<li title="fe-blgs" time="1497176405" style=""><a href="https://jaysoo.ca/">Jack Hsu</a></li>
+<li title="fe-blgs" time="1497176324" style=""><a href="https://jakearchibald.com/">Jake Archbald</a></li>
+<li title="fe-blgs" time="1497175963" style=""><a href="http://jamesknelson.com/">James K. Nelson</a></li>
+<li title="dev-books" time="1497125213" style=""><a href="https://leanpub.com/javaForTesters">Java For Tester</a></li>
+<li title="javascript" time="1497126042" style=""><a href="http://www.dofactory.com/javascript/design-patterns">JavaScript Design Patterns</a></li>
+<li title="javascript" time="1497127023" style=""><a href="http://bonsaiden.github.io/JavaScript-Garden">JavaScript Garden</a></li>
+<li title="javascript" time="1497127307" style=""><a href="https://javascript.info/">Javascript Info</a></li>
+<li title="fe-blgs" time="1497176116" style=""><a href="http://javascriptplayground.com/archives/">Javascript playground by Jack Franklin</a></li>
+<li title="javascript" time="1497127076" style=""><a href="http://code.tutsplus.com/series/javascript-succinctly--net-35975">JavaScript Succinctly - Tuts+ Code Tutorials</a></li>
+<li title="webdev" time="1497174140" style=""><a href="http://tutorials.jenkov.com/">Jenkov tuts</a></li>
+<li title="a1" time="1497206330" style=""><a href="https://github.com/JeremyLikness/AngularHealthApp">JeremyLikness/AngularHealthApp</a></li>
+<li title="git" time="1497207333" style=""><a href="https://github.com/jlord/git-it">jlord/git-it: Learn Git and GitHub. Try the new desktop version →</a></li>
+<li title="jquery" time="1497206957" style=""><a href="http://nicholasjohnson.com/jquery-book/">jQuery Book</a></li>
+<li title="jquery" time="1497206999" style=""><a href="http://oscarotero.com/jquery/">jQuery Cheatsheet</a></li>
+<li title="jquery" time="1497206974" style=""><a href="http://jqfundamentals.com/">jQuery Fundamentals :: A guide to the basics of jQuery</a></li>
+<li title="jquery" time="1497207018" style=""><a href="http://learn.jquery.com/">jQuery Learning Center</a></li>
+<li title="jquery" time="1497207033" style=""><a href="http://code.tutsplus.com/series/jquery-succinctly--net-33742">jQuery Succinctly - Tuts+ Code Tutorials</a></li>
+<li title="terminal-lessons" time="1497129189" style=""><a href="https://github.com/verekia/js-stack-from-scratch">JS stack from scratch</a></li>
+<li title="javascript" time="1497811276" style=""><a href="http://www.jstips.co/">JS Tips</a></li>
+<li title="javascript" time="1497125399" style=""><a href="http://jstherightway.org/">JS: The Right Way</a></li>
+<li title="react" time="1498056604"><a href="https://github.com/jscomplete">jsComplete</a></li>
+<li title="algo" time="1497207272" style=""><a href="https://github.com/jwasham/google-interview-university">jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer</a></li>
+<li title="css" time="1497174970" style=""><a href="http://getkickstart.com/">Kickstart</a></li>
+<li title="seo" time="1497175704" style=""><a href="http://lawmore.pl/">Lawmore</a></li>
+<li title="a2" time="1497207102" style=""><a href="http://learnangular2.com/">Learn Angular 2 · Learn Angular 2</a></li>
+<li title="css" time="1497173704" style=""><a href="http://learnlayout.com/">Learn CSS Layout</a></li>
+<li title="css" time="1497178989" style=""><a href="http://book.mixu.net/css/">Learn CSS Layout</a></li>
+<li title="langs" time="1497811087" style=""><a href="https://english.lingolia.com/en/">Learn English on Lingolia</a></li>
+<li title="git" time="1497207347" style=""><a href="https://www.atlassian.com/git">Learn Git- Git tutorials, workflows and commands | Atlassian Git Tutorial</a></li>
+<li title="redux" time="1499639010"><a href="https://github.com/happypoulp/redux-tutorial">Learn how to use redux step by step</a></li>
+<li title="terminal-lessons" time="1497127419" style=""><a href="https://github.com/sethvincent/javascripting">Learn JavaScript by adventuring around in the terminal</a></li>
+<li title="webdev" time="1497174115" style=""><a href="https://bento.io/">Learn to be a self-taught expert developer - BENTO</a></li>
+<li title="webdev" time="1497172789" style=""><a href="http://learn.shayhowe.com/html-css/">Learn to Code HTML &amp; CSS</a></li>
+<li title="javascript" time="1497126071" style=""><a href="https://johnresig.com/apps/learn/">Learning Advanced JavaScript</a></li>
+<li title="javascript" time="1497125911" style=""><a href="https://addyosmani.com/resources/essentialjsdesignpatterns/book/">Learning JavaScript Design Patterns</a></li>
+<li title="terminal-lessons" time="1497129134" style=""><a href="https://github.com/workshopper/learnyounode">learnynode</a></li>
+<li title="terminal-lessons" time="1497128146" style=""><a href="https://github.com/workshopper/learnyoureact">learnyoureact</a></li>
+<li title="webperf" time="1497206839" style=""><a href="http://ponyfoo.com/articles/talk-about-web-performance">Let's talk about Web Performance</a></li>
 <li title="react" time="1497128079"><a href="https://css-tricks.com/learning-react-router/">Leveling Up With React by css-tricks</a></li>
-<li title="js-libs" time="1497175053"><a href="http://cornel.bopp-art.com/lightcase/">Lightcase.js</a></li>
-<li title="js-libs" time="1497125872"><a href="Loading And Blocking JavaScript">Loading And Blocking JavaScript</a></li>
-<li title="css" time="1497173659"><a href="https://www.minimamente.com/example/magic_animations/">Magic animations</a></li>
-<li title="css" time="1497175023"><a href="http://adamschwartz.co/magic-of-css/">Magic of Css</a></li>
-<li title="css" time="1497137782"><a href="https://maintainablecss.com/">Maintainable CSS</a></li>
-<li title="dev-books" time="1497129713"><a href="https://trysparkschool.com/how-rodrigo-built-3-of-his-own-projects">Make the transition to fullstack JS developer</a></li>
-<li title="bcoin" time="1497810957"><a href="https://www.bitcoinbook.info/">Mastering Bitcoin</a></li>
-<li title="courses" time="1497128906"><a href="https://www.girldevelopit.com/materials">Materials - Girl Develop It</a></li>
-<li title="fe-blgs" time="1497176022"><a href="http://blog.mgechev.com/posts/">Minko Gechev</a></li>
-<li title="node" time="1497179040"><a href="http://book.mixu.net/node/">Mixu's Node book</a></li>
-<li title="algo" time="1497810991"><a href="https://ml.berkeley.edu/blog/">ML@B Blog</a></li>
-<li title="algo" time="1497207303"><a href="https://yomguithereal.github.io/mnemonist">Mnemonist - algo in js</a></li>
-<li title="fe-blgs" time="1497175929"><a href="http://andrewhfarmer.com/">Modern JS with React by Andrew H. Framer</a></li>
-<li title="html" time="1497206458"><a href="http://ferrante.pl/books/html">Moja pierwsza strona internetowa w HTML5 i CSS3 - darmowa książka do nauki HTML5 i CSS3</a></li>
-<li title="webdev" time="1497173982"><a href="https://developer.mozilla.org/en-US/docs/Web/Tutorials">Mozilla Web technology for developers Tutorials</a></li>
-<li title="fe-blgs" time="1497176347"><a href="http://blog.ng-book.com/">ng-book blog</a></li>
-<li title="seo" time="1497175669"><a href="http://nibbler.silktide.com/">Nibbler</a></li>
-<li title="node" time="1497172457"><a href="https://node.university/courses">Node University</a></li>
-<li title="node" time="1497172303"><a href="https://courses.nodecasts.io/">Nodecasts</a></li>
-<li title="node" time="1497172254"><a href="https://nodeschool.io/">Nodeschool</a></li>
-<li title="inspire" time="1497175009"><a href="https://www.nordnet.se/brand/">Nordea Styleguide</a></li>
-<li title="seo" time="1497175583"><a href="https://developers.google.com/speed/pagespeed/insights/">PageSpeedTools</a></li>
-<li title="javascript" time="1497129236"><a href="https://addyosmani.com/largescalejavascript/">Patterns For Large-Scale JavaScript Application Architecture</a></li>
-<li title="webperf" time="1497206929"><a href="http://www.perf-tooling.today/">Performance Tooling Today</a></li>
-<li title="fe-blgs" time="1497176154"><a href="http://philipwalton.com/">Philip Walton</a></li>
-<li title="seo" time="1497175504"><a href="https://tools.pingdom.com/">Pingdom Website Speed Test</a></li>
-<li title="fe-blgs" time="1497176001"><a href="https://ponyfoo.com/">PonyFoo</a></li>
-<li title="courses" time="1497206479"><a href="http://slides.com/codecarrots">Presentations by codecarrots</a></li>
-<li title="bizdev" time="1497207545"><a href="http://stryv.io/products/">Product Page Update - Stryv</a></li>
-<li title="security" time="1497207425"><a href="http://www.nytimes.com/2016/11/17/technology/personaltech/encryption-privacy.html">Protecting Your Digital Life in 7 Easy Steps - The New York Times</a></li>
-<li title="css" time="1497173819"><a href="https://purecss.io/">Pure.css</a></li>
-<li title="fe-blgs" time="1497176071"><a href="https://rainsoft.io/">Rainsoft.io by Dmitri Pavlutin</a></li>
-<li title="a2" time="1497207115"><a href="https://www.gitbook.com/@rangle-io">Rangle.io (@rangle-io) on GitBook · GitBook</a></li>
+<li title="js-libs" time="1497175053" style=""><a href="http://cornel.bopp-art.com/lightcase/">Lightcase.js</a></li>
+<li title="js-libs" time="1497125872" style=""><a href="Loading And Blocking JavaScript">Loading And Blocking JavaScript</a></li>
+<li title="css" time="1497173659" style=""><a href="https://www.minimamente.com/example/magic_animations/">Magic animations</a></li>
+<li title="css" time="1497175023" style=""><a href="http://adamschwartz.co/magic-of-css/">Magic of Css</a></li>
+<li title="css" time="1497137782" style=""><a href="https://maintainablecss.com/">Maintainable CSS</a></li>
+<li title="dev-books" time="1497129713" style=""><a href="https://trysparkschool.com/how-rodrigo-built-3-of-his-own-projects">Make the transition to fullstack JS developer</a></li>
+<li title="bcoin" time="1497810957" style=""><a href="https://www.bitcoinbook.info/">Mastering Bitcoin</a></li>
+<li title="courses" time="1497128906" style=""><a href="https://www.girldevelopit.com/materials">Materials - Girl Develop It</a></li>
+<li title="fe-blgs" time="1497176022" style=""><a href="http://blog.mgechev.com/posts/">Minko Gechev</a></li>
+<li title="node" time="1497179040" style=""><a href="http://book.mixu.net/node/">Mixu's Node book</a></li>
+<li title="algo" time="1497810991" style=""><a href="https://ml.berkeley.edu/blog/">ML@B Blog</a></li>
+<li title="algo" time="1497207303" style=""><a href="https://yomguithereal.github.io/mnemonist">Mnemonist - algo in js</a></li>
+<li title="fe-blgs" time="1497175929" style=""><a href="http://andrewhfarmer.com/">Modern JS with React by Andrew H. Framer</a></li>
+<li title="html" time="1497206458" style=""><a href="http://ferrante.pl/books/html">Moja pierwsza strona internetowa w HTML5 i CSS3 - darmowa książka do nauki HTML5 i CSS3</a></li>
+<li title="webdev" time="1497173982" style=""><a href="https://developer.mozilla.org/en-US/docs/Web/Tutorials">Mozilla Web technology for developers Tutorials</a></li>
+<li title="fe-blgs" time="1497176347" style=""><a href="http://blog.ng-book.com/">ng-book blog</a></li>
+<li title="seo" time="1497175669" style=""><a href="http://nibbler.silktide.com/">Nibbler</a></li>
+<li title="node" time="1497172457" style=""><a href="https://node.university/courses">Node University</a></li>
+<li title="node" time="1497172303" style=""><a href="https://courses.nodecasts.io/">Nodecasts</a></li>
+<li title="node" time="1497172254" style=""><a href="https://nodeschool.io/">Nodeschool</a></li>
+<li title="inspire" time="1497175009" style=""><a href="https://www.nordnet.se/brand/">Nordea Styleguide</a></li>
+<li title="seo" time="1497175583" style=""><a href="https://developers.google.com/speed/pagespeed/insights/">PageSpeedTools</a></li>
+<li title="javascript" time="1497129236" style=""><a href="https://addyosmani.com/largescalejavascript/">Patterns For Large-Scale JavaScript Application Architecture</a></li>
+<li title="webperf" time="1497206929" style=""><a href="http://www.perf-tooling.today/">Performance Tooling Today</a></li>
+<li title="fe-blgs" time="1497176154" style=""><a href="http://philipwalton.com/">Philip Walton</a></li>
+<li title="seo" time="1497175504" style=""><a href="https://tools.pingdom.com/">Pingdom Website Speed Test</a></li>
+<li title="fe-blgs" time="1497176001" style=""><a href="https://ponyfoo.com/">PonyFoo</a></li>
+<li title="courses" time="1497206479" style=""><a href="http://slides.com/codecarrots">Presentations by codecarrots</a></li>
+<li title="bizdev" time="1497207545" style=""><a href="http://stryv.io/products/">Product Page Update - Stryv</a></li>
+<li title="security" time="1497207425" style=""><a href="http://www.nytimes.com/2016/11/17/technology/personaltech/encryption-privacy.html">Protecting Your Digital Life in 7 Easy Steps - The New York Times</a></li>
+<li title="css" time="1497173819" style=""><a href="https://purecss.io/">Pure.css</a></li>
+<li title="fe-blgs" time="1497176071" style=""><a href="https://rainsoft.io/">Rainsoft.io by Dmitri Pavlutin</a></li>
+<li title="a2" time="1497207115" style=""><a href="https://www.gitbook.com/@rangle-io">Rangle.io (@rangle-io) on GitBook · GitBook</a></li>
 <li title="react" time="1497117881"><a href="https://www.gitbook.com/book/rangle-io/react-native-workshop/details">Rangle.io: React Native Workshop</a></li>
 <li title="react" time="1497117929"><a href="https://www.gitbook.com/book/rangle-io/react-training/details">Rangle.io: React Training</a></li>
 <li title="react" time="1497128010"><a href="http://www.reactboilerplate.com/">React boilerplate</a></li>
@@ -199,85 +216,68 @@
 <li title="react" time="1497127921"><a href="http://reactpatterns.com/">React Patterns</a></li>
 <li title="react" time="1497129040"><a href="http://elijahmanor.com/talks/react-patterns-practices/#/">React Patterns Practices</a></li>
 <li title="react" time="1497128110"><a href="https://github.com/vasanthk/react-bits">React patterns, techniques, tips and tricks</a></li>
-<li title="react" time="1497128283"><a href="https://github.com/taylorham/react-conf-17-videos">ReactConf 17 Videos</a></li>
-<li title="a1" time="1497206390"><a href="http://fdietz.github.io/recipes-with-angular-js/">Recipes with Angular.js - Home</a></li>
-<li title="algo" time="1497207245"><a href="https://codility.com/programmers/">Refactor yourself. Train your programming skills - CodilityRefactor yourself. Train your programming skills - Codility</a></li>
-<li title="css" time="1497172749"><a href="http://bradfrost.github.io/this-is-responsive/resources.html">Responsive Resources</a></li>
-<li title="webdev" time="1495284829"><a href="https://www.infoq.com/articles/rest-anti-patterns/">REST Anti-Patterns</a></li>
-<li title="courses" time="1497128964"><a href="https://www.rithmschool.com/courses">Rithm School | Free Courses</a></li>
-<li title="javascript" time="1497127361"><a href="http://bytearcher.com/articles/roadmap-for-learning-javascript-language/">Roadmap for learning the JavaScript language</a></li>
-<li title="webdev" time="1497173871"><a href="https://github.com/kamranahmedse/developer-roadmap">Roadmap to becoming a web developer in 2017</a></li>
-<li title="javascript" time="1497127186"><a href="https://github.com/ryanmcdermott/clean-code-javascript">ryanmcdermott/clean-code-javascript: Clean Code concepts adapted for JavaScript</a></li>
-<li title="scala" time="1497206703"><a href="http://scala-exercises.47deg.com/">Scala Exercises | The easy way to learn Scala</a></li>
-<li title="seo" time="1497175658"><a href="https://seositecheckup.com/">Search Engine Optimization Made Easy</a></li>
-<li title="css" time="1497137892"><a href="http://developer.helpscout.net/seed/">Seed</a></li>
-<li title="dev-books" time="1497125267"><a href="http://www.compendiumdev.co.uk/selenium/">Selenium Simplified - Automated Web Testing with Java and Selenium RC</a></li>
-<li title="fullstack" time="1497207528"><a href="http://serverless-stack.com/">Serverless Stack | Free step-by-step tutorials for creating serverless React.js apps</a></li>
-<li title="productivity" time="1483445190"><a href="https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/">Set goals with OKRs</a></li>
-<li title="frontend" time="1497179026"><a href="http://singlepageappbook.com/">Single Page Apps in depth</a></li>
-<li title="ui" time="1497175209"><a href="https://sketchrepo.com/">Sketch repo</a></li>
-<li title="css, flexbox" time="1497178971"><a href="https://philipwalton.github.io/solved-by-flexbox/">Solved by Flexbox</a></li>
-<li title="bcoin" time="1497811041"><a href="https://thecontrol.co/some-blockchain-reading-1d98ec6b2f39">Some Blockchain Reading</a></li>
-<li title="fe-blgs" time="1497176269"><a href="https://seesparkbox.com/foundry/">Sparkbox</a></li>
-<li title="ui" time="1497175198"><a href="https://startupsthisishowdesignworks.com/">Startups, this is how design works</a></li>
-<li title="selenium" time="1497125319"><a href="https://pwicherski.gitbooks.io/testowanieoprogramowania/content/strony-na-kt%C3%B3rych-mo%C5%BCesz-trenowa%C4%87.html">Strony do testów manualnych oraz automatyzacji</a></li>
-<li title="javascript" time="1497125365"><a href="http://superherojs.com/">Superhero.js</a></li>
-<li title="webpack" time="1497176495"><a href="https://survivejs.com/webpack/introduction/">SurviveJS webpack</a></li>
-<li title="fe-blgs" time="1497176208"><a href="http://www.syntaxsuccess.com/">Syntaxsuccses by Torgeir Helgevold</a></li>
-<li title="css" time="1497137611"><a href="http://tachyons.io/">Tachyons</a></li>
-<li title="fe-blgs" time="1497176044"><a href="http://teropa.info/">Tero Parviainen</a></li>
-<li title="react" time="1497128321"><a href="http://codingthesmartway.com/the-2017-react-development-starter-guide/">The 2017 React Development Starter Guide</a></li>
-<li title="css" time="1497125040"><a href="https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048">The 30 CSS Selectors You Must Memorize</a></li>
-<li title="webdev" time="1497172770"><a href="https://code.tutsplus.com/articles/the-abcs-of-web-development--net-18888">The ABCs of Web Development</a></li>
-<li title="bizdev" time="1484213154"><a href="https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1#.e3ukbx9b5">The Epic Guide to Bootstrapping a SaaS Startup from Scratch — By Yourself</a></li>
-<li title="ui" time="1497175332"><a href="http://dudleystorey.github.io/thenewdefaults/">The new defaults colors</a></li>
-<li title="node" time="1497172627"><a href="https://www.nodebeginner.org/">The Node beginner book</a></li>
-<li title="security" time="1497207441"><a href="https://cto-security-checklist.sqreen.io/">The SaaS CTO Security Checklist</a></li>
-<li title="webdev" time="1497172721"><a href="https://12factor.net/">The Twelve-Factor App</a></li>
-<li title="css, flexbox" time="1497179131"><a href="http://www.sketchingwithcss.com/samplechapter/cheatsheet.html">The Ultimate Flexbox Cheatsheet</a></li>
-<li title="webdev" time="1497811331"><a href="https://brainhub.eu/guide-to-becoming-a-cto">The Ultimate Guide to Becoming a CTO</a></li>
-<li title="algo" time="1497207317"><a href="https://github.com/thejameskyle/itsy-bitsy-data-structures">thejameskyle/itsy-bitsy-data-structures: All the things you didn't know you wanted to know about data structures</a></li>
-<li title="security" time="1495284950"><a href="https://kev.inburke.com/kevin/things-to-use-instead-of-jwt/">Things to Use Instead of JWT</a></li>
-<li title="bizdev" time="1497811197"><a href="http://speaking.io/">Tips for Public Speaking</a></li>
-<li title="fe-blgs" time="1497175983"><a href="https://toddmotto.com/">Todd Motto</a></li>
-<li title="scala" time="1497206802"><a href="https://wiki.scala-lang.org/display/SW/Tools+and+Libraries">Tools and Libraries - Scala Wiki - Scala Wiki</a></li>
-<li title="algo" time="1497207259"><a href="http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/?utm_source=hackernewsletter&amp;utm_medium=email&amp;utm_term=working">Top 10 algorithms in Interview Questions - GeeksforGeeks</a></li>
-<li title="scala" time="1497206718"><a href="http://docs.scala-lang.org/tutorials/">Tutorials - Scala Documentation</a></li>
-<li title="jquery" time="1497207050"><a href="https://github.com/tutsplus/30-days-to-jquery">tutsplus/30-days-to-jquery</a></li>
-<li title="courses" time="1497123974"><a href="https://classroom.udacity.com/me">Udacity</a></li>
-<li title="webdev" time="1497174177"><a href="https://www.vikingcodeschool.com/prep">Viking Code School prep</a></li>
-<li title="css" time="1483351418"><a href="http://cssreference.io/">Visual guide to CSS</a></li>
-<li title="webdev" time="1497174266"><a href="https://coggle.it/diagram/52e97f8c5a143de239005d1b/56212c4e4c505e0045c0d3bda59b77e5977c2c9bd40f3fd0b451bdcf8da4aa52">Web Development Mind Map</a></li>
-<li title="webdev" time="1497174339"><a href="https://developers.google.com/web/fundamentals/">Web Fundamentals</a></li>
-<li title="webpack" time="1497176472"><a href="http://www.pro-react.com/materials/appendixA/">Webpack for react</a></li>
-<li title="webpack" time="1497176457"><a href="https://github.com/petehunt/webpack-howto">Webpack howto</a></li>
-<li title="webpack" time="1497176437"><a href="https://blog.madewithlove.be/post/webpack-your-bags/">Webpack your bags</a></li>
-<li title="selenium" time="1497125007"><a href="http://seleniumsimplified.com/2011/05/when-automating-do-you-wait-before-or-after-the-event/">When automating, do you wait before or after the event?</a></li>
-<li title="scala" time="1497206739"><a href="http://www.scala-lang.org/docu/files/ScalaByExample.pdf">www.scala-lang.org/docu/files/ScalaByExample.pdf</a></li>
-<li title="javascript" time="1497125432"><a href="https://github.com/getify/You-Dont-Know-JS">You Don't Know JS (book series)</a></li>
-<li title="fe-blgs" time="1497176172"><a href="http://www.zell-weekeat.com/">Zell Liev</a></li>
-<li title="devops" time="1490257010"><a href="https://scotte.org/2016/12/ZFS-root-filesystem-on-AWS">ZFS Root Filesystem on AWS</a></li>
-<li title="react" time="1498056604"><a href="https://github.com/jscomplete">jsComplete</a></li>
-<li title="react" time="1498056630"><a href="https://x-team.com/react-resources/">X-team REACT RESOURCES</a></li>
-<li title="webdev" time="1498056777"><a href="https://github.com/dexteryy/spellbook-of-modern-webdev">Spellbook of Modern Web Dev</a></li>
-<li title="react" time="1498056813"><a href="https://hackernoon.com/a-react-todos-example-explained-6df53cdebed1">A React TODOs example, explainedr</a></li>
-<li title="react" time="1498056875"><a href="http://stack.formidable.com/react-tutorial/">Formidable Labs React Training</a></li>
-<li title="fluxible" time="1498057873"><a href="https://github.com/tlovett1/fluxible-starter">A Fluxible starter application</a></li>
-<li title="fluxible" time="1498057896"><a href="https://github.com/voronianski/flux-comparison/tree/master/yahoo-fluxible">flux-comparison/yahoo-fluxible</a></li>
-<li title="fluxible" time="1498058081"><a href="https://taylorlovett.com/2016/04/29/fluxible-devignition-2016/">Fluxible at DevIgnition 2016</a></li>
-<li title="fluxible" time="1498058374"><a href="https://github.com/zoover/fluxible-isomorphic-app">fluxible-isomorphic-app</a></li>
-<li title="fluxible" time="1498058431"><a href="http://qiita.com/srd7/items/85e89f16b1b390170579">Fluxible + React</a></li>
-<li title="fluxible" time="1498058467"><a href="https://github.com/yahoo/fluxible/tree/master/examples">Fluxible Examples</a></li>
-<li title="fluxible" time="1498058493"><a href="https://github.com/gpbl/isomorphic500">A 500px app built with React and Fluxible with babeljs</a></li>
-<li title="fluxible" time="1498058614"><a href="http://jacksoncmorgan.blogspot.com/2015/07/building-web-site-using-isomorphic-flux.html">Building a Web Site using Isomorphic Flux and Fluxible</a></li>
-<li title="fluxible" time="1498058636"><a href="https://github.com/jaxoncreed/fluxible-tutorial">Step-by-step instructions on using fluxible.</a></li>
-<li title="fluxible" time="1498058657"><a href="https://medium.com/@JacksonMorgan/building-a-site-using-isomorphic-flux-with-fluxible-e7939f37fa0">https://github.com/jaxoncreed/fluxible-tutorial</a></li>
-<li title="fluxible" time="1498058906"><a href="https://github.com/porchdotcom/isomorphic-porch-demo">Isomorphic React+Flux application architecture w Fluxible</a></li>
-<li title="node" time="1498209025"><a href="https://webapplog.com/you-dont-know-node/">You dont know node</a></li>
-<li title="node" time="1498209110"><a href="https://x-team.com/blog/best-node-js-guides-curated-by-x-team/">Best Node.js Tutorials: Curated by X-Team</a></li>
 <li title="react" time="1499637413"><a href="https://github.com/markerikson/react-redux-links">React/Redux Links</a></li>
+<li title="react" time="1497128283"><a href="https://github.com/taylorham/react-conf-17-videos">ReactConf 17 Videos</a></li>
 <li title="react" time="1499637627"><a href="https://www.reactiflux.com/learning/">Reactiflux learning</a></li>
+<li title="a1" time="1497206390" style=""><a href="http://fdietz.github.io/recipes-with-angular-js/">Recipes with Angular.js - Home</a></li>
+<li title="algo" time="1497207245" style=""><a href="https://codility.com/programmers/">Refactor yourself. Train your programming skills - CodilityRefactor yourself. Train your programming skills - Codility</a></li>
+<li title="css" time="1497172749" style=""><a href="http://bradfrost.github.io/this-is-responsive/resources.html">Responsive Resources</a></li>
+<li title="webdev" time="1495284829" style=""><a href="https://www.infoq.com/articles/rest-anti-patterns/">REST Anti-Patterns</a></li>
+<li title="courses" time="1497128964" style=""><a href="https://www.rithmschool.com/courses">Rithm School | Free Courses</a></li>
+<li title="javascript" time="1497127361" style=""><a href="http://bytearcher.com/articles/roadmap-for-learning-javascript-language/">Roadmap for learning the JavaScript language</a></li>
+<li title="webdev" time="1497173871" style=""><a href="https://github.com/kamranahmedse/developer-roadmap">Roadmap to becoming a web developer in 2017</a></li>
+<li title="javascript" time="1497127186" style=""><a href="https://github.com/ryanmcdermott/clean-code-javascript">ryanmcdermott/clean-code-javascript: Clean Code concepts adapted for JavaScript</a></li>
+<li title="scala" time="1497206703" style=""><a href="http://scala-exercises.47deg.com/">Scala Exercises | The easy way to learn Scala</a></li>
+<li title="seo" time="1497175658" style=""><a href="https://seositecheckup.com/">Search Engine Optimization Made Easy</a></li>
+<li title="css" time="1497137892" style=""><a href="http://developer.helpscout.net/seed/">Seed</a></li>
+<li title="dev-books" time="1497125267" style=""><a href="http://www.compendiumdev.co.uk/selenium/">Selenium Simplified - Automated Web Testing with Java and Selenium RC</a></li>
+<li title="fullstack" time="1497207528" style=""><a href="http://serverless-stack.com/">Serverless Stack | Free step-by-step tutorials for creating serverless React.js apps</a></li>
+<li title="productivity" time="1483445190" style=""><a href="https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/">Set goals with OKRs</a></li>
+<li title="frontend" time="1497179026" style=""><a href="http://singlepageappbook.com/">Single Page Apps in depth</a></li>
+<li title="ui" time="1497175209" style=""><a href="https://sketchrepo.com/">Sketch repo</a></li>
+<li title="css, flexbox" time="1497178971" style=""><a href="https://philipwalton.github.io/solved-by-flexbox/">Solved by Flexbox</a></li>
+<li title="bcoin" time="1497811041" style=""><a href="https://thecontrol.co/some-blockchain-reading-1d98ec6b2f39">Some Blockchain Reading</a></li>
+<li title="fe-blgs" time="1497176269" style=""><a href="https://seesparkbox.com/foundry/">Sparkbox</a></li>
+<li title="webdev" time="1498056777" style=""><a href="https://github.com/dexteryy/spellbook-of-modern-webdev">Spellbook of Modern Web Dev</a></li>
+<li title="ui" time="1497175198" style=""><a href="https://startupsthisishowdesignworks.com/">Startups, this is how design works</a></li>
+<li title="fluxible" time="1498058636" style=""><a href="https://github.com/jaxoncreed/fluxible-tutorial">Step-by-step instructions on using fluxible.</a></li>
+<li title="selenium" time="1497125319" style=""><a href="https://pwicherski.gitbooks.io/testowanieoprogramowania/content/strony-na-kt%C3%B3rych-mo%C5%BCesz-trenowa%C4%87.html">Strony do testów manualnych oraz automatyzacji</a></li>
+<li title="javascript" time="1497125365" style=""><a href="http://superherojs.com/">Superhero.js</a></li>
+<li title="webpack" time="1497176495" style=""><a href="https://survivejs.com/webpack/introduction/">SurviveJS webpack</a></li>
+<li title="fe-blgs" time="1497176208" style=""><a href="http://www.syntaxsuccess.com/">Syntaxsuccses by Torgeir Helgevold</a></li>
+<li title="css" time="1497137611" style=""><a href="http://tachyons.io/">Tachyons</a></li>
+<li title="fe-blgs" time="1497176044" style=""><a href="http://teropa.info/">Tero Parviainen</a></li>
+<li title="react" time="1497128321"><a href="http://codingthesmartway.com/the-2017-react-development-starter-guide/">The 2017 React Development Starter Guide</a></li>
+<li title="css" time="1497125040" style=""><a href="https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048">The 30 CSS Selectors You Must Memorize</a></li>
+<li title="webdev" time="1497172770" style=""><a href="https://code.tutsplus.com/articles/the-abcs-of-web-development--net-18888">The ABCs of Web Development</a></li>
+<li title="bizdev" time="1484213154" style=""><a href="https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1#.e3ukbx9b5">The Epic Guide to Bootstrapping a SaaS Startup from Scratch — By Yourself</a></li>
+<li title="ui" time="1497175332" style=""><a href="http://dudleystorey.github.io/thenewdefaults/">The new defaults colors</a></li>
+<li title="node" time="1497172627" style=""><a href="https://www.nodebeginner.org/">The Node beginner book</a></li>
+<li title="security" time="1497207441" style=""><a href="https://cto-security-checklist.sqreen.io/">The SaaS CTO Security Checklist</a></li>
+<li title="webdev" time="1497172721" style=""><a href="https://12factor.net/">The Twelve-Factor App</a></li>
+<li title="css, flexbox" time="1497179131" style=""><a href="http://www.sketchingwithcss.com/samplechapter/cheatsheet.html">The Ultimate Flexbox Cheatsheet</a></li>
+<li title="webdev" time="1497811331" style=""><a href="https://brainhub.eu/guide-to-becoming-a-cto">The Ultimate Guide to Becoming a CTO</a></li>
+<li title="algo" time="1497207317" style=""><a href="https://github.com/thejameskyle/itsy-bitsy-data-structures">thejameskyle/itsy-bitsy-data-structures: All the things you didn't know you wanted to know about data structures</a></li>
+<li title="security" time="1495284950" style=""><a href="https://kev.inburke.com/kevin/things-to-use-instead-of-jwt/">Things to Use Instead of JWT</a></li>
+<li title="bizdev" time="1497811197" style=""><a href="http://speaking.io/">Tips for Public Speaking</a></li>
+<li title="fe-blgs" time="1497175983" style=""><a href="https://toddmotto.com/">Todd Motto</a></li>
+<li title="scala" time="1497206802" style=""><a href="https://wiki.scala-lang.org/display/SW/Tools+and+Libraries">Tools and Libraries - Scala Wiki - Scala Wiki</a></li>
+<li title="algo" time="1497207259" style=""><a href="http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/?utm_source=hackernewsletter&amp;utm_medium=email&amp;utm_term=working">Top 10 algorithms in Interview Questions - GeeksforGeeks</a></li>
+<li title="scala" time="1497206718" style=""><a href="http://docs.scala-lang.org/tutorials/">Tutorials - Scala Documentation</a></li>
+<li title="jquery" time="1497207050" style=""><a href="https://github.com/tutsplus/30-days-to-jquery">tutsplus/30-days-to-jquery</a></li>
+<li title="courses" time="1497123974" style=""><a href="https://classroom.udacity.com/me">Udacity</a></li>
 <li title="react" time="1499637822"><a href="https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/">Under-the-hood-ReactJS</a></li>
-<li title="webdev" time="1499638546"><a href="https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41">grabs-front-end-guide-for-large-teams</a></li>
-<li title="react" time="1499639010"><a href="https://github.com/happypoulp/redux-tutorial">Learn how to use redux step by step</a></li>
-<li title="react" time="1499639309"><a href="https://github.com/xgrommx/awesome-redux">Awesome Redux</a></li>
+<li title="webdev" time="1497174177" style=""><a href="https://www.vikingcodeschool.com/prep">Viking Code School prep</a></li>
+<li title="css" time="1483351418" style=""><a href="http://cssreference.io/">Visual guide to CSS</a></li>
+<li title="webdev" time="1497174266" style=""><a href="https://coggle.it/diagram/52e97f8c5a143de239005d1b/56212c4e4c505e0045c0d3bda59b77e5977c2c9bd40f3fd0b451bdcf8da4aa52">Web Development Mind Map</a></li>
+<li title="webdev" time="1497174339" style=""><a href="https://developers.google.com/web/fundamentals/">Web Fundamentals</a></li>
+<li title="webpack" time="1497176472" style=""><a href="http://www.pro-react.com/materials/appendixA/">Webpack for react</a></li>
+<li title="webpack" time="1497176457" style=""><a href="https://github.com/petehunt/webpack-howto">Webpack howto</a></li>
+<li title="webpack" time="1497176437" style=""><a href="https://blog.madewithlove.be/post/webpack-your-bags/">Webpack your bags</a></li>
+<li title="selenium" time="1497125007" style=""><a href="http://seleniumsimplified.com/2011/05/when-automating-do-you-wait-before-or-after-the-event/">When automating, do you wait before or after the event?</a></li>
+<li title="scala" time="1497206739" style=""><a href="http://www.scala-lang.org/docu/files/ScalaByExample.pdf">www.scala-lang.org/docu/files/ScalaByExample.pdf</a></li>
+<li title="react" time="1498056630"><a href="https://x-team.com/react-resources/">X-team REACT RESOURCES</a></li>
+<li title="javascript" time="1497125432" style=""><a href="https://github.com/getify/You-Dont-Know-JS">You Don't Know JS (book series)</a></li>
+<li title="node" time="1498209025" style=""><a href="https://webapplog.com/you-dont-know-node/">You dont know node</a></li>
+<li title="fe-blgs" time="1497176172" style=""><a href="http://www.zell-weekeat.com/">Zell Liev</a></li>
+<li title="devops" time="1490257010" style=""><a href="https://scotte.org/2016/12/ZFS-root-filesystem-on-AWS">ZFS Root Filesystem on AWS</a></li>
