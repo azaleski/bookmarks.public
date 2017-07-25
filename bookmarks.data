@@ -281,3 +281,6 @@
 <li title="node" time="1498209025" style=""><a href="https://webapplog.com/you-dont-know-node/">You dont know node</a></li>
 <li title="fe-blgs" time="1497176172" style=""><a href="http://www.zell-weekeat.com/">Zell Liev</a></li>
 <li title="devops" time="1490257010" style=""><a href="https://scotte.org/2016/12/ZFS-root-filesystem-on-AWS">ZFS Root Filesystem on AWS</a></li>
+<li title="webpack" time="1501025957"><a href="https://blog.hospodarets.com/native-ecmascript-modules-dynamic-import">Native ECMAScript modules: dynamic import()    Serg Hospodarets Blog</a></li>
+<li title="webpack" time="1501025982"><a href="https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/">Webpack – A Detailed Introduction</a></li>
+<li title="webpack" time="1501026009"><a href="https://github.com/googlechrome/preload-webpack-plugin">preload-webpack-plugin</a></li>
