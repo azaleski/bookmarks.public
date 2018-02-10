@@ -177,7 +177,6 @@
 <li title="webperf" time="1497206839" style=""><a href="http://ponyfoo.com/articles/talk-about-web-performance">Let's talk about Web Performance</a></li>
 <li title="react" time="1497128079"><a href="https://css-tricks.com/learning-react-router/">Leveling Up With React by css-tricks</a></li>
 <li title="js-libs" time="1497175053" style=""><a href="http://cornel.bopp-art.com/lightcase/">Lightcase.js</a></li>
-<li title="js-libs" time="1497125872" style=""><a href="Loading And Blocking JavaScript">Loading And Blocking JavaScript</a></li>
 <li title="css" time="1497173659" style=""><a href="https://www.minimamente.com/example/magic_animations/">Magic animations</a></li>
 <li title="css" time="1497175023" style=""><a href="http://adamschwartz.co/magic-of-css/">Magic of Css</a></li>
 <li title="css" time="1497137782" style=""><a href="https://maintainablecss.com/">Maintainable CSS</a></li>
@@ -285,3 +284,4 @@
 <li title="webpack" time="1501025982"><a href="https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/">Webpack – A Detailed Introduction</a></li>
 <li title="webpack" time="1501026009"><a href="https://github.com/googlechrome/preload-webpack-plugin">preload-webpack-plugin</a></li>
 <li title="algo" time="1508827687"><a href="https://github.com/yangshun/tech-interview-handbook">tech-interview-handbook</a></li>
+<li title="bizdev" time="1508827687"><a href="https://tylertringas.com/micro-saas-ebook">Building Micro-SaaS Businesses</a></li>
