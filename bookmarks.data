@@ -44,15 +44,15 @@
 <li title="css" time="1497137715" style=""><a href="http://bulma.io/">Bulma</a></li>
 <li title="bcoin" time="1497811024" style=""><a href="https://www.bunq.com/en/">bunq</a></li>
 <li title="fe-blgs" time="1497176088" style=""><a href="https://bytearcher.com/articles/">Byte archer</a></li>
-<li title="ui" time="1497175113" style=""><a href="https://www.canva.com/">Canva</a></li>
+<li title="design" time="1497175113" style=""><a href="https://www.canva.com/">Canva</a></li>
 <li title="inspire" time="1497174811" style=""><a href="http://carbondesignsystem.com/">Carbon Design System by IBM</a></li>
 <li title="courses" time="1497124135" style=""><a href="https://www.class-central.com/">Class Central</a></li>
 <li title="scala" time="1497206758" style=""><a href="https://www.cs.helsinki.fi/u/wikla/OTS/Sisalto/examples/index.html">Code Examples for Programming in Scala</a></li>
 <li title="courses" time="1497123748" style=""><a href="https://www.codecademy.com/">CodeCademy</a></li>
 <li title="a2" time="1497207160" style=""><a href="https://codecraft.tv/courses/ng2/">CodeCraft • Angular 2</a></li>
 <li title="css" time="1497174595" style=""><a href="https://codyhouse.co/">Codyhouse</a></li>
-<li title="ui" time="1497175315" style=""><a href="http://www.colorhunt.co/c/17143">Color Hunt</a></li>
-<li title="ui" time="1497175344" style=""><a href="http://jxnblk.com/colorable/">Colorable</a></li>
+<li title="design" time="1497175315" style=""><a href="http://www.colorhunt.co/c/17143">Color Hunt</a></li>
+<li title="design" time="1497175344" style=""><a href="http://jxnblk.com/colorable/">Colorable</a></li>
 <li title="react" time="1497127890"><a href="https://btholt.github.io/complete-intro-to-react/">Complete Intro to React by Brian Holt</a></li>
 <li title="javascript" time="1497127261" style=""><a href="http://slides.com/concise/js#/92">concise JavaScript by Jong-Shian Wu</a></li>
 <li title="css" time="1497173748" style=""><a href="https://www.minimamente.com/example/gradient-generator/">CSS Gradient Editor</a></li>
@@ -63,11 +63,11 @@
 <li title="fe-blgs" time="1497175888" style=""><a href="https://daveceddia.com/archives/">Dave Ceddia</a></li>
 <li title="fe-blgs" time="1497175856" style=""><a href="http://davidshariff.com/blog/">David shariff</a></li>
 <li title="a1" time="1497206269" style=""><a href="http://stackoverflow.com/questions/15666048/angularjs-service-vs-provider-vs-factory/20613879#20613879">dependency injection - AngularJS : Service vs provider vs factory - Stack Overflow</a></li>
-<li title="ui" time="1497175278" style=""><a href="http://codepen.io/patterns/">Design Patterns</a></li>
-<li title="ui" time="1497175227" style=""><a href="https://designcode.io/">Design+code</a></li>
-<li title="ui" time="1497175169" style=""><a href="http://adrien-heury.net/designers-checklists/index.html">Designers checklist</a></li>
+<li title="design" time="1497175278" style=""><a href="http://codepen.io/patterns/">Design Patterns</a></li>
+<li title="design" time="1497175227" style=""><a href="https://designcode.io/">Design+code</a></li>
+<li title="design" time="1497175169" style=""><a href="http://adrien-heury.net/designers-checklists/index.html">Designers checklist</a></li>
 <li title="webperf" time="1497206856" style=""><a href="http://designingforperformance.com/">Designing for Performance by Lara Callender Hogan</a></li>
-<li title="ui" time="1497175183" style=""><a href="http://designingfortheweb.co.uk/index.php">Designing for the Web</a></li>
+<li title="design" time="1497175183" style=""><a href="http://designingfortheweb.co.uk/index.php">Designing for the Web</a></li>
 <li title="fullstack" time="1497179093" style=""><a href="http://book.mixu.net/distsys/index.html">Distributed systems</a></li>
 <li title="javascript" time="1497127209" style=""><a href="https://github.com/DrBoolean/mostly-adequate-guide">DrBoolean/mostly-adequate-guide</a></li>
 <li title="langs" time="1497811172" style=""><a href="https://englishtest.duolingo.com/">Duolingo English Test</a></li>
@@ -83,7 +83,7 @@
 <li title="es6" time="1497173374" style=""><a href="https://github.com/DrkSephy/es6-cheatsheet">es6-cheatsheet</a></li>
 <li title="dev-books" time="1497129319" style=""><a href="https://leanpub.com/nodejssecurity">Essential Node.js Security</a></li>
 <li title="inspire" time="1497175074" style=""><a href="http://ettrics.com/articles/page/2/">Ettrics demos</a></li>
-<li title="pm" time="1484213380" style=""><a href="https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/">Evidence Based Scheduling</a></li>
+<li title="agile" time="1484213380" style=""><a href="https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/">Evidence Based Scheduling</a></li>
 <li title="redux" time="1497128198"><a href="https://github.com/gothinkster/react-redux-realworld-example-app">Exemplary real world application built with React + Redux</a></li>
 <li title="terminal-lessons" time="1497207199" style=""><a href="http://exercism.io/">exercism.io</a></li>
 <li title="node" time="1497172690" style=""><a href="http://nodeguide.com">Felix's Node.js Guide</a></li>
@@ -110,12 +110,12 @@
 <li title="git" time="1497207392" style=""><a href="http://rogerdudler.github.io/git-guide/">git - the simple guide - no deep shit!</a></li>
 <li title="git" time="1497207404" style=""><a href="https://www.liquidlight.co.uk/blog/article/git-for-beginners-an-overview-and-basic-workflow/">Git for Beginners: An Overview and Basic Workflow - Liquid Light</a></li>
 <li title="git" time="1497207376" style=""><a href="http://gitimmersion.com/">Git Immersion - Brought to you by Neo</a></li>
-<li title="ui" time="1497175154" style=""><a href="http://www.goodui.org/">Good UI</a></li>
-<li title="ui" time="1497175131" style=""><a href="https://design.google.com/#resources">Google design</a></li>
+<li title="design" time="1497175154" style=""><a href="http://www.goodui.org/">Good UI</a></li>
+<li title="design" time="1497175131" style=""><a href="https://design.google.com/#resources">Google design</a></li>
 <li title="webdev" time="1499638546" style=""><a href="https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41">grabs-front-end-guide-for-large-teams</a></li>
 <li title="css" time="1497174574" style=""><a href="http://jxnblk.com/gravitons/">Gravitons</a></li>
 <li title="seo" time="1497175557" style=""><a href="https://gtmetrix.com">GtMetrix</a></li>
-<li title="ui" time="1497175144" style=""><a href="https://hackdesign.org/lessons">Hackdesign</a></li>
+<li title="design" time="1497175144" style=""><a href="https://hackdesign.org/lessons">Hackdesign</a></li>
 <li title="webperf" time="1497206914" style=""><a href="https://hpbn.co/">High Performance Browser Networking (O'Reilly)</a></li>
 <li title="fe-blgs" time="1497176303" style=""><a href="https://una.im">Home | Una Kravets Online</a></li>
 <li title="css" time="1497173568" style=""><a href="http://ianlunn.github.io/Hover/#">Hover.css</a></li>
@@ -123,7 +123,7 @@
 <li title="bizdev" time="1497207470" style=""><a href="https://crew.co/how-to-build-an-online-business/">How To Build an Online Business | Crew</a></li>
 <li title="bizdev" time="1497207505" style=""><a href="http://startupclass.samaltman.com/">How to Start a Startup</a></li>
 <li title="html" time="1497174290" style=""><a href="https://html5boilerplate.com/">HTML 5 boilerplate</a></li>
-<li title="ui" time="1497175469" style=""><a href="http://htmlcolorcodes.com/">HTML Color codes</a></li>
+<li title="design" time="1497175469" style=""><a href="http://htmlcolorcodes.com/">HTML Color codes</a></li>
 <li title="html" time="1497178954" style=""><a href="http://htmldog.com/">Html Dog</a></li>
 <li title="css" time="1497137736" style=""><a href="http://htmlreference.io/">Html reference</a></li>
 <li title="html" time="1497174311" style=""><a href="http://html5please.com/">HTML5 Please</a></li>
@@ -214,7 +214,7 @@
 <li title="react" time="1497127965"><a href="https://zackargyle.github.io/react-internals-slides">React Internals</a></li>
 <li title="react" time="1497127921"><a href="http://reactpatterns.com/">React Patterns</a></li>
 <li title="react" time="1497129040"><a href="http://elijahmanor.com/talks/react-patterns-practices/#/">React Patterns Practices</a></li>
-<li title="react" time="1497128110"><a href="https://github.com/vasanthk/react-bits">React patterns, techniques, tips and tricks</a></li>
+<li title="react" time="1497128110"><a href="https://www.gitbook.com/book/vasanthk/react-bits/details">React Bits</a></li>
 <li title="react" time="1499637413"><a href="https://github.com/markerikson/react-redux-links">React/Redux Links</a></li>
 <li title="react" time="1497128283"><a href="https://github.com/taylorham/react-conf-17-videos">ReactConf 17 Videos</a></li>
 <li title="react" time="1499637627"><a href="https://www.reactiflux.com/learning/">Reactiflux learning</a></li>
@@ -233,12 +233,12 @@
 <li title="fullstack" time="1497207528" style=""><a href="http://serverless-stack.com/">Serverless Stack | Free step-by-step tutorials for creating serverless React.js apps</a></li>
 <li title="productivity" time="1483445190" style=""><a href="https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/">Set goals with OKRs</a></li>
 <li title="frontend" time="1497179026" style=""><a href="http://singlepageappbook.com/">Single Page Apps in depth</a></li>
-<li title="ui" time="1497175209" style=""><a href="https://sketchrepo.com/">Sketch repo</a></li>
+<li title="design" time="1497175209" style=""><a href="https://sketchrepo.com/">Sketch repo</a></li>
 <li title="css, flexbox" time="1497178971" style=""><a href="https://philipwalton.github.io/solved-by-flexbox/">Solved by Flexbox</a></li>
 <li title="bcoin" time="1497811041" style=""><a href="https://thecontrol.co/some-blockchain-reading-1d98ec6b2f39">Some Blockchain Reading</a></li>
 <li title="fe-blgs" time="1497176269" style=""><a href="https://seesparkbox.com/foundry/">Sparkbox</a></li>
 <li title="webdev" time="1498056777" style=""><a href="https://github.com/dexteryy/spellbook-of-modern-webdev">Spellbook of Modern Web Dev</a></li>
-<li title="ui" time="1497175198" style=""><a href="https://startupsthisishowdesignworks.com/">Startups, this is how design works</a></li>
+<li title="design" time="1497175198" style=""><a href="https://startupsthisishowdesignworks.com/">Startups, this is how design works</a></li>
 <li title="fluxible" time="1498058636" style=""><a href="https://github.com/jaxoncreed/fluxible-tutorial">Step-by-step instructions on using fluxible.</a></li>
 <li title="selenium" time="1497125319" style=""><a href="https://pwicherski.gitbooks.io/testowanieoprogramowania/content/strony-na-kt%C3%B3rych-mo%C5%BCesz-trenowa%C4%87.html">Strony do testów manualnych oraz automatyzacji</a></li>
 <li title="javascript" time="1497125365" style=""><a href="http://superherojs.com/">Superhero.js</a></li>
@@ -250,7 +250,7 @@
 <li title="css" time="1497125040" style=""><a href="https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048">The 30 CSS Selectors You Must Memorize</a></li>
 <li title="webdev" time="1497172770" style=""><a href="https://code.tutsplus.com/articles/the-abcs-of-web-development--net-18888">The ABCs of Web Development</a></li>
 <li title="bizdev" time="1484213154" style=""><a href="https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1#.e3ukbx9b5">The Epic Guide to Bootstrapping a SaaS Startup from Scratch — By Yourself</a></li>
-<li title="ui" time="1497175332" style=""><a href="http://dudleystorey.github.io/thenewdefaults/">The new defaults colors</a></li>
+<li title="design" time="1497175332" style=""><a href="http://dudleystorey.github.io/thenewdefaults/">The new defaults colors</a></li>
 <li title="node" time="1497172627" style=""><a href="https://www.nodebeginner.org/">The Node beginner book</a></li>
 <li title="security" time="1497207441" style=""><a href="https://cto-security-checklist.sqreen.io/">The SaaS CTO Security Checklist</a></li>
 <li title="webdev" time="1497172721" style=""><a href="https://12factor.net/">The Twelve-Factor App</a></li>
@@ -283,5 +283,47 @@
 <li title="webpack" time="1501025957"><a href="https://blog.hospodarets.com/native-ecmascript-modules-dynamic-import">Native ECMAScript modules: dynamic import()    Serg Hospodarets Blog</a></li>
 <li title="webpack" time="1501025982"><a href="https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/">Webpack – A Detailed Introduction</a></li>
 <li title="webpack" time="1501026009"><a href="https://github.com/googlechrome/preload-webpack-plugin">preload-webpack-plugin</a></li>
-<li title="algo" time="1508827687"><a href="https://github.com/yangshun/tech-interview-handbook">tech-interview-handbook</a></li>
-<li title="bizdev" time="1508827687"><a href="https://tylertringas.com/micro-saas-ebook">Building Micro-SaaS Businesses</a></li>
+<li title="algo" time="1508827687"><a href="https://github.com/azaleski/tech-interview-handbook">tech-interview-handbook</a></li>
+<li title="react" time="1518304099"><a href="https://learnreact.com/">Learn react videos</a></li>
+<li title="js-libs" time="1518304050"><a href="http://boardgame.io/#/">boardgame.io</a></li>
+<li title="js-libs" time="1518304051"><a href="http://javascript.info/">Javascript.info</a></li>
+<li title="dpo-action" time="1518304052"><a href="https://survivejs.com/maintenance/preface/">MAINTENANCE BOOK</a></li>
+<li title="javascript" time="1518304053"><a href="https://30secondsofcode.org/">30 seconds of code</a></li>
+<li title="css" time="1518304054"><a href="https://minicss.org/index/">Mini css</a></li>
+<li title="dev-books" time="1518304054"><a href="http://goalkicker.com/">Programming Notes for Professionals books</a></li>
+<li title="bcoin" time="1518304055"><a href="http://whatthefuckisethereum.com/">What The Fuck Is Ethereum?</a></li>
+<li title="bcoin" time="1518304056"><a href="https://www.cryptocompare.com/">CryptoCompare</a></li>
+<li title="es6" time="1518304057"><a href="https://leanpub.com/understandinges6/read">Understanding ECMAScript 6</a></li>
+<li title="es6" time="1518304058"><a href="http://exploringjs.com/es6/">Exploring ES6</a></li>
+<li title="es6" time="1518304059"><a href="http://exploringjs.com/es2016-es2017.html">Exploring ES2016 and ES2017</a></li>
+<li title="fe-blgs" time="1518304060"><a href="http://2ality.com/">2ality – JavaScript and more</a></li>
+<li title="javascript" time="1518304061"><a href="http://speakingjs.com/es5/index.html">Speaking JavaScript</a></li>
+<li title="es6" time="1518304062"><a href="https://leanpub.com/setting-up-es6/read">Setting up ES6</a></li>
+<li title="fullstack" time="1518304063"><a href="https://github.com/azaleski/twitter-clone">Spark School Twitter Clone</a></li>
+<li title="javascript" time="1518304064"><a href="https://github.com/getify/functional-light-js">Functional light JS</a></li>
+<li title="fullstack" time="1518304065"><a href="https://github.com/Idnan/bash-guide">Bash guide</a></li>
+<li title="algo" time="1518304066"><a href="http://bigocheatsheet.com/">Big-O Cheat Sheet</a></li>
+<li title="redux" time="1518304067"><a href="https://www.gitbook.com/book/tonyhb/redux-without-profanity/details">Redux without profanity</a></li>
+<li title="security" time="1518304068"><a href="https://blog.appcanary.com/2017/http-security-headers.html">about HTTP security headers</a></li>
+<li title="arch" time="1518304069"><a href="https://github.com/donnemartin/system-design-primer">System Design Primer</a></li>
+<li title="fe-blgs" time="1518304070"><a href="https://davidwells.io/blog/">David Wells</a></li>
+<li title="js-libs" time="1518304071"><a href="http://grommet.io/">Grommet</a></li>
+<li title="bizdev" time="1518304072"><a href="https://github.com/mezod/awesome-indie">Awesome Indie</a></li>
+<li title="fullstack" time="1518304073"><a href="https://github.com/browniefed/Become-A-Full-Stack-Web-Developer">Becaome a fullstack web developer</a></li>
+<li title="bizdev" time="1518304074"><a href="https://codedaily.io/">React Native Code Daily</a></li>
+<li title="bcoin" time="1518304075"><a href="http://lopp.net/bitcoin.html">BITCOIN RESOURCES</a></li>
+<li title="javascript" time="1518304076"><a href="https://gist.github.com/amysimmons/1d3c6fa84800b50d6b515662b55d0cb9">Advanced JavaScript Learning Resources
+</a></li>
+<li title="algo" time="1518304077"><a href="https://github.com/azaleski/front-end-interview-handbook">front-end-interview-handbook</a></li>
+<li title="javascript" time="1518304078"><a href="https://github.com/mjavascript">Modular Javascript PonyFoo</a></li>
+<li title="fullstack" time="1518304079"><a href="https://github.com/Kickball/awesome-selfhosted">Awesome Selfhosted</a></li>
+<li title="react" time="1518304080"><a href="https://github.com/reactjs-academy">Reactjs academy</a></li>
+<li title="design" time="1518304081"><a href="https://www.designbetter.co/">Design Better</a></li>
+<li title="agile" time="1518304082"><a href="https://www.niceideas.ch/roller2/badtrash/entry/periodic-table-of-agile-principles">Periodic Table of Agile Principles and Practices</a></li>
+<li title="agile" time="1518304083"><a href="https://www.targetprocess.com/articles/speed-in-software-development/">Speed in Software Development</a></li>
+<li title="agile" time="1518304084"><a href="https://www.niceideas.ch/roller2/badtrash/entry/agile-planning-tools-and-processes">Agile Planning: tools and processes</a></li>
+<li title="javascript" time="1518304085"><a href="https://mbeaudru.github.io/modern-js-cheatsheet/">Modern JS cheatsheet</a></li>
+<li title="javascript" time="1518304085"><a href="https://techbeacon.com/guide-restful-api-design-35-must-reads"Restful api design 35 must read</a></li>
+<li title="react" time="1518304086"><a href="https://github.com/ericdouglas/react-learning">React Learning</a></li>
+<li title="react" time="1518304087"><a href="https://www.lullabot.com/articles/how-to-learn-react">How to learn react</a></li>
+<li title="design" time="1518304088"><a href="https://wasai.co/#ventures">Wasai - chinese webdesign example</a></li>
