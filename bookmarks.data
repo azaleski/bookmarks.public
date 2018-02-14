@@ -327,3 +327,55 @@
 <li title="node" time="1498209025"><a href="https://webapplog.com/you-dont-know-node/">You dont know node</a></li>
 <li title="fe-blgs" time="1497176172"><a href="http://www.zell-weekeat.com/">Zell Liev</a></li>
 <li title="devops" time="1490257010"><a href="https://scotte.org/2016/12/ZFS-root-filesystem-on-AWS">ZFS Root Filesystem on AWS</a></li>
+<li title="bizdev" time="1490257011"><a href="https://docs.google.com/spreadsheets/d/1P1N0SM-b1X12YYcxTbo_RySzjNF4qTDTYRK2EW62WJE/edit#gid=369796962">Lista przydatnych narzędzi dla startupów i przedsiębiorców</a></li>
+<li title="bizdev" time="1490257012"><a href="https://docs.google.com/spreadsheets/u/1/d/15I79kd_rAP7JoOjA7BghD2WNmuUS3uWWS7skEA2_sIo/htmlview">Lista instytucji gdzie możecie próbować pozyskiwać fundusze</a></li>
+<li title="fluxible" time="1490257013"><a href="https://github.com/alexishevia/blogExamples/tree/fluxible_app">fluxible blogExamples</a></li>
+<li title="fluxible" time="1490257014"><a href="https://github.com/cesarandreu/quad-blog/">Isomorphic flux and react blog</a></li>
+<li title="fluxible" time="1490257015"><a href="https://react.rocks/tag/Isomorphic">42 Isomorphic Examples</a></li>
+<li title="javascript" time="1490257016"><a href="https://github.com/denysdovhan/wtfjs">A list of funny and tricky JavaScript examples</a></li>
+<li title="webdev" time="1490257017"><a href="https://blog.sqreen.io/">Sqreen blog</a></li>
+<li title="webdev" time="1490257018"><a href="https://tutorialzine.com/articles">Tutorialzine</a></li>
+<li title="agile" time="1490257019"><a href="http://www.remotestarterkit.com/">Remote starter kit</a></li>
+<li title="javascript" time="1490257020"><a href="https://github.com/wearehive/project-guidelines">A set of best practices for JavaScript projects</a></li>
+<li title="js-libs" time="1490257021"><a href="https://www.gatsbyjs.org/">Gatsby</a></li>
+<li title="fullstack" time="1490257022"><a href="https://www.howtographql.com/">How to graphql</a></li>
+<li title="js-libs" time="1490257023"><a href="http://formidable.com/open-source/spectacle/">Spectacle</a></li>
+<li title="js-libs" time="1490257024"><a href="https://remarkjs.com/#1">Remark</a></li>
+<li title="fe-blgs" time="1490257025"><a href="https://marmelab.com">marmelab</a></li>
+<li title="fullstack" time="1490257026"><a href="https://marmelab.com/blog/2017/09/03/dive-into-graphql.html">Dive into graphql</a></li>
+<li title="algo" time="1490257027"><a href="https://github.com/mtdvio/every-programmer-should-know">A collection of (mostly) technical things every software developer should know</a></li>
+<li title="dev-books" time="1490257028"><a href="https://github.com/ppizarro/coursera/tree/master/POSA/Books/Pattern-Oriented%20Software%20Architecture">Pattern-Oriented Software Architecture</a></li>
+<li title="react" time="1490257029"><a href="http://arkwright.github.io/scaling-react-server-side-rendering.html">Scaling React Server-Side Rendering</a></li>
+<li title="arch" time="1490257030"><a href="http://arkwright.github.io/event-sourcing.html">Event Sourcing</a></li>
+<li title="fe-blgs" time="1490257031"><a href="http://blog.isquaredsoftware.com/">Random musings on React, Redux, and more</a></li>
+<li title="bizdev" time="1490257032"><a href="https://justinjackson.ca/">Justin Jackson blog</a></li>
+<li title="css" time="1490257033"><a href="https://css-tricks.com/need-css-utility-library/">So you need a CSS utility library?</a></li>
+<li title="react" time="1490257034"><a href="https://github.com/kylpo/react-playbook">Styles, Conventions, Rules, Tips, and Tools!</a></li>
+<li title="redux" time="1490257035"><a href="http://blog.rangle.io/react-and-redux-performance-with-reselect/">Improving React and Redux performance with Reselect, Redux</a></li>
+<li title="dpo-action" time="1490257036"><a href="http://tech.m6web.fr/migrate-smoothly-flux-isomorphic-app-to-redux/">Migrate smoothly your Flux isomorphic app to Redux</a></li>
+<li title="dpo-action" time="1490257037"><a href="https://medium.com/building-crowdriff/how-to-fix-your-react-app-when-it-secretly-hates-you-8532ffbcc7f9">How to fix your React app when it secretly hates you</a></li>
+<li title="webpack" time="1490257038"><a href="https://stanko.github.io/webpack-babel-react-revisited/">Setting up Webpack, Babel and React from scratch</a></li>
+<li title="selenium" time="1490257039"><a href="https://medium.freecodecamp.org/how-to-write-reliable-browser-tests-using-selenium-and-node-js-c3fdafdca2a9">How to write reliable browser tests using Selenium and Node.js</a></li>
+<li title="css" time="1490257040"><a href="https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676">The Ultimate Guide to Flexbox — Learning Through Examples</a></li>
+<li title="javascript" time="1490257041"><a href="https://leanpub.com/javascript-allonge/read">JavaScript Allongé (ES5)</a></li>
+<li title="es6" time="1490257042"><a href="https://leanpub.com/javascriptallongesix/read">JavaScript Allongé, the "Six" Edition</a></li>
+<li title="javascript" time="1490257043"><a href="https://www.javascriptstuff.com/articles/">www.javascriptstuff.com/articles</a></li>
+<li title="arch" time="1490257044"><a href="http://web-engineering.info/tech/JsFrontendApp/book/">Building Front-End Web Apps with Plain JavaScript</a></li>
+<li title="javascript" time="1490257045"><a href="http://web-engineering.info/tech/JavaScript/Summary.html">JavaScript Summary</a></li>
+<li title="arch" time="1490257046"><a href="http://web-engineering.info/book/WebApp1/">Web Applications with JavaScript or Java</a></li>
+<li title="algo" time="1490257047"><a href="http://roceteer.com/blog/31-awesome-places-to-find-remote-work/">31-awesome-places-to-find-remote-work</a></li>
+<li title="agile" time="1490257048"><a href="https://x-team.com/remote-team-guide/">THE DEFINITIVE GUIDE TO REMOTE DEVELOPMENT TEAMS</a></li>
+<li title="agile" time="1490257049"><a href="https://www.atlassian.com/agile">The Agile Coach</a></li>
+<li title="security" time="1490257050"><a href="https://www.twilio.com/blog/2017/11/securing-your-express-app.html">Putting the helmet on – Securing your Express app</a></li>
+<li title="react" time="1490257051"><a href="https://glitch.com/react-starter-kit">React Starter Kit</a></li>
+<li title="javascript" time="1490257052"><a href="http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/">JavaScript. The Core: 2nd Edition</a></li>
+<li title="fe-blgs" time="1490257053"><a href="https://www.robinwieruch.de/">RWieruch;</a></li>
+<li title="fe-blgs" time="1490257054"><a href="https://zach.codes/">Zach Silveira;</a></li>
+<li title="selenium" time="1490257055"><a href="http://www.lihaoyi.com/post/PrinciplesofAutomatedTesting.html">Principles of Automated Testing</a></li>
+<li title="fe-blgs" time="1490257056"><a href="https://paul.kinlan.me/">Paul Kinlan</a></li>
+<li title="javascript" time="1490257057"><a href="https://medium.com/@koresar/fun-with-stamps-episode-1-stamp-basics-e0627d81efe0">Fun with Stamps</a></li>
+<li title="arch" time="1490257058"><a href="https://github.com/hemanth/functional-programming-jargon">functional-programming-jargon</a></li>
+<li title="arch" time="1490257059"><a href="http://sam.js.org/#">The SAM Pattern</a></li>
+<li title="js-libs" time="1490257060"><a href="https://github.com/krasimir/stent">Stent</a></li>
+<li title="arch" time="1490257061"><a href="https://css-tricks.com/robust-react-user-interfaces-with-finite-state-machines/">Robust React User Interfaces with Finite State Machines</a></li>
+<li title="bizdev" time="1490257062"><a href="https://medium.com/swlh/content-marketing-101-for-startups-a-guide-and-complete-resources-72f44f6fbf79">Content Marketing 101 for Startups</a></li>
